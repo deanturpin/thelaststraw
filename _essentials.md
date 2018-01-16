@@ -1,5 +1,9 @@
 # Every day
 
+## Oil
+Coconut is a highly versatile oil for all cooking and in fact as moisturiser.
+The 500g jars are a really useful size to reuse.
+
 ## Sugar
 I used to use Billington's for bread making but why does it only come
 wrapped in plastic? Old school Tate and Lyle it is. 
