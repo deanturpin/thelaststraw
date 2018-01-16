@@ -219,86 +219,6 @@ plastic/foil packet (Twinnings).
 ## Newspapers
 In the week newspapers are OK but inexplicably at the weekend the
 food/environment pullouts come in a plastic bag.
-# Fermentation
-
-Fermentation is not readily practiced by much of society but a great skill and
-will get you on the road to preserving things when there’s an abundance.
-
-All these recipes use a percentage of salt. If 1.6% salt is required, 1000g of
-veg would need 16g of salt. But you should always taste the raw mix before
-bottling.
-
-## Basic principles of fermented cabbage
-Shop bought fermented goods are pretty pricey considering it's mostly cabbage.
-But it's really easy to get involved.
-
-![](images/kimchi1.jpg)
-
-There's plenty of shop-bought kimchi in Brighton but very few in eco-friendly
-packaging. So why not make your own?
-
-- 100% red cabbage (loose, Infinity Foods)
-- 25% wild garlic (wild, The Downs)
-- 1.6% salt
-- 1% red chilli (loose, Taj)
-
-Chop everything and mix in the salt. Crush with your hands to get the juices
-flowing (if it's a particularly tough cabbage you might need to use a pestle).
-Leave for ten minutes and repeat until there's a good amount of liquid in the
-bottom of the bowl.
-
-Pack into a glass jar leaving about 20% expansion space and close the lid.
-
-Keep out of the sunlight, it should start to bubble by day two. Taste it after a
-week. Is it delicious? If so, eat on homemade bread with aioli. 
-
-The flavour profile evolves over the course of a few weeks. If you manage to not
-eat it all you'll notice the taste drops off after a few weeks. If you really
-like the taste on a certain day move it to the fridge to slow it down.
-
-![](images/kimchi2.jpg)
-![](images/kimchi4.jpg)
-
-## Fermented salsa
-A very quick ferment that goes with anything.
-
-- Two large tomatoes, coarsely chopped
-- Half as much onion as toms, 5mm dice
-- Two garlic cloves, finely chopped
-- A few radishes, finely sliced
-- One red chilli, finely sliced
-
-The denser the vegetable the finer it needs cutting.
-
-Put it all into a mixing bowl on a scale, add 1.6% of the weight of the veg in
-salt. Mush it between your fingers until mixed and quite liquid. Add to a jar,
-almost to the brim, pop the lid on and leave in a dark cupboard for up to a
-week. You can put it in a fridge if you like but the acidity should stop
-anything untoward occurring.
-
-Put everything in a mixing bowl on a scale, add 1.6% of the weight of the veg in
-salt. Mush it between your fingers until mixed and quite liquid. Taste and then
-dd to a jar, almost to the brim, pop the lid on and leave in a dark cupboard for
-up to a week. You can put it in a fridge if you like but the acidity should stop
-anything untoward occurring.
-
-![](images/fermented_salsa1.jpg)
-![](images/fermented_salsa2.jpg)
-
-## Okraut
-A experiment to see how okra behaves. The addition of okra makes it quite slippery! So possibly not for everybody. But
-still.
-
-![](images/okrachi1.jpg)
-![](images/okrachi2.jpg)
-![](images/okrachi3.jpg)
-
-## Beer and wine
-[Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of beer
-affectionately known as "growlers" from their shop on East Street. If purchasing
-tins of beer then don't choose those with six-pack rings. Ten packs come in a
-cardboard box with no plastic. Or go to the pub. Or brew your own!
-
 # Inspiration
 
 * Zero waste superstar Lauren Singer: http://www.trashisfortossers.com/
@@ -480,67 +400,6 @@ products. We prefer a plastic panel on our fresh stuff?
 ## I remember when everything around here was sealed in small claustrophobic boxes
 Before long all you see is plastic. Equal-portioned high-carbon footprint
 produce condemned to a petrochemical tomb. As nature intended.
-# Recipes
-
-## Granola
-I've been thinking about this granola for a while. It's quite hard to buy dried
-fruit without also buying a plastic bag.
-
-![](images/granola.jpg)
-
-* 300g large oats
-* 60g cacao nibs
-* 60g dried goji berries
-* 60g Silverspoon UK-grown caster sugar (paper bag)
-* 60g Surrey honey
-* 60g coconut oil
-
-Combine everything bar the berries (lest they burn), spread on a tray and cook
-at 200C for 8 minutes until brown (give it a stir around halfway through). I
-tend to chuck the berries on top when it comes out of the oven.
-
-Actually you can chuck just about anything in and 60g seems a good proportion. I
-try not to make it too much about seeds but hemp and flax make an interesting
-addition. And if you're feeling flush you can omit the sugar and double up on
-the honey. I have tried olive oil when I've run out of coconut but it seems to
-catch (burn) very easily. Keep an eye on it.
-
-Once you're happy with it check your Twitter for a while whilst it cools and
-transfer to an airtight container. This does keep it nice and crisp but we're
-all busy people and it will keep quite happily for a week covered with another
-baking tray.
-
-Starting with 300g of oats makes one baking tray's worth. I tend to do two at
-once, the lower one stays in for the first eight minutes, stir and then I bring
-it to the top for a further four minutes.
-
-### Waste
-Paper packaging in the recycling and reuse the jars.
-
-## Epic cheese sandwich
-
-![](images/sandwich2.jpg)
-
-- Bread, Silo
-- Smoked cheddar, La Cave à Fromage
-- Spinach, Taj
-- Tomatoes, The Open Market
-- Harissa and mayonnaise in glass jars (no plastic seal), Waitrose
-
-### Waste
-- Two paper bags to recycle/reuse 
-- Two rubber bands to repurpose
-- Stalks in the Nutribullet
-- Roots and vines in the compost
-
-![](images/sandwich1.jpg)
-![](images/spinach_roots.jpg)
-
-## Drying fruit
-Drying is really good way to extend the life of fruit. Apples work particularly
-well: slice to 2mm with the skin on - cookers and eaters - spread out on
-greaseproof on as many trays as you can get in the oven and bake for roughly
-three hours at 110C. Check every hour.
 # Recycling and upcycling
 
 ## Bottle-cutting
@@ -631,3 +490,144 @@ Bottle](https://www.banthebottle.net/bottled-water-facts/). And see how
 comes out of our taps.
 
 ![](images/plastic_waitrose.jpg)
+# Recipes
+
+## Granola
+I've been thinking about this granola for a while. It's quite hard to buy dried
+fruit without also buying a plastic bag.
+
+![](images/granola.jpg)
+
+* 300g large oats
+* 60g cacao nibs
+* 60g dried goji berries
+* 60g Silverspoon UK-grown caster sugar (paper bag)
+* 60g Surrey honey
+* 60g coconut oil
+
+Combine everything bar the berries (lest they burn), spread on a tray and cook
+at 200C for 8 minutes until brown (give it a stir around halfway through). I
+tend to chuck the berries on top when it comes out of the oven.
+
+Actually you can chuck just about anything in and 60g seems a good proportion. I
+try not to make it too much about seeds but hemp and flax make an interesting
+addition. And if you're feeling flush you can omit the sugar and double up on
+the honey. I have tried olive oil when I've run out of coconut but it seems to
+catch (burn) very easily. Keep an eye on it.
+
+Once you're happy with it check your Twitter for a while whilst it cools and
+transfer to an airtight container. This does keep it nice and crisp but we're
+all busy people and it will keep quite happily for a week covered with another
+baking tray.
+
+Starting with 300g of oats makes one baking tray's worth. I tend to do two at
+once, the lower one stays in for the first eight minutes, stir and then I bring
+it to the top for a further four minutes.
+
+### Waste
+Paper packaging in the recycling and reuse the jars.
+
+## Epic cheese sandwich
+
+![](images/sandwich2.jpg)
+
+- Bread, Silo
+- Smoked cheddar, La Cave à Fromage
+- Spinach, Taj
+- Tomatoes, The Open Market
+- Harissa and mayonnaise in glass jars (no plastic seal), Waitrose
+
+### Waste
+- Two paper bags to recycle/reuse 
+- Two rubber bands to repurpose
+- Stalks in the Nutribullet
+- Roots and vines in the compost
+
+![](images/sandwich1.jpg)
+![](images/spinach_roots.jpg)
+
+## Drying fruit
+Drying is really good way to extend the life of fruit. Apples work particularly
+well: slice to 2mm with the skin on - cookers and eaters - spread out on
+greaseproof on as many trays as you can get in the oven and bake for roughly
+three hours at 110C. Check every hour.
+# Fermentation
+
+Fermentation is not readily practiced by much of society but a great skill and
+will get you on the road to preserving things when there’s an abundance.
+
+All these recipes use a percentage of salt. If 1.6% salt is required, 1000g of
+veg would need 16g of salt. But you should always taste the raw mix before
+bottling.
+
+## Basic principles of fermented cabbage
+Shop bought fermented goods are pretty pricey considering it's mostly cabbage.
+But it's really easy to get involved.
+
+![](images/kimchi1.jpg)
+
+There's plenty of shop-bought kimchi in Brighton but very few in eco-friendly
+packaging. So why not make your own?
+
+- 100% red cabbage (loose, Infinity Foods)
+- 25% wild garlic (wild, The Downs)
+- 1.6% salt
+- 1% red chilli (loose, Taj)
+
+Chop everything and mix in the salt. Crush with your hands to get the juices
+flowing (if it's a particularly tough cabbage you might need to use a pestle).
+Leave for ten minutes and repeat until there's a good amount of liquid in the
+bottom of the bowl.
+
+Pack into a glass jar leaving about 20% expansion space and close the lid.
+
+Keep out of the sunlight, it should start to bubble by day two. Taste it after a
+week. Is it delicious? If so, eat on homemade bread with aioli. 
+
+The flavour profile evolves over the course of a few weeks. If you manage to not
+eat it all you'll notice the taste drops off after a few weeks. If you really
+like the taste on a certain day move it to the fridge to slow it down.
+
+![](images/kimchi2.jpg)
+![](images/kimchi4.jpg)
+
+## Fermented salsa
+A very quick ferment that goes with anything.
+
+- Two large tomatoes, coarsely chopped
+- Half as much onion as toms, 5mm dice
+- Two garlic cloves, finely chopped
+- A few radishes, finely sliced
+- One red chilli, finely sliced
+
+The denser the vegetable the finer it needs cutting.
+
+Put it all into a mixing bowl on a scale, add 1.6% of the weight of the veg in
+salt. Mush it between your fingers until mixed and quite liquid. Add to a jar,
+almost to the brim, pop the lid on and leave in a dark cupboard for up to a
+week. You can put it in a fridge if you like but the acidity should stop
+anything untoward occurring.
+
+Put everything in a mixing bowl on a scale, add 1.6% of the weight of the veg in
+salt. Mush it between your fingers until mixed and quite liquid. Taste and then
+dd to a jar, almost to the brim, pop the lid on and leave in a dark cupboard for
+up to a week. You can put it in a fridge if you like but the acidity should stop
+anything untoward occurring.
+
+![](images/fermented_salsa1.jpg)
+![](images/fermented_salsa2.jpg)
+
+## Okraut
+A experiment to see how okra behaves. The addition of okra makes it quite slippery! So possibly not for everybody. But
+still.
+
+![](images/okrachi1.jpg)
+![](images/okrachi2.jpg)
+![](images/okrachi3.jpg)
+
+## Beer and wine
+[Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of beer
+affectionately known as "growlers" from their shop on East Street. If purchasing
+tins of beer then don't choose those with six-pack rings. Ten packs come in a
+cardboard box with no plastic. Or go to the pub. Or brew your own!
+
