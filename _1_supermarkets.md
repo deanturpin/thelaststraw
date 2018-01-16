@@ -32,7 +32,7 @@ something with the packaging.
 ## Taj
 All major supermarkets pack their greens in plastic but Taj offer bundles of
 [spinach](images/spinach_taj.jpg) with no packaging bar a rubber band (which you
-can repurpose make an awesome [rubber band ball](images/rubberband_ball.jpg).)
+can repurpose or make into an awesome [rubber band ball](images/rubberband_ball.jpg).)
 In fact they sell lots of herbs and [spices](images/lemongrass_taj.jpg) that you
 often don't see loose. They also offer an interesting cheese alternative in a
 reusable jar: labneh. It's a beautifully sour strained yoghurt that you can
