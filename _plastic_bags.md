@@ -2,11 +2,11 @@
 
 It goes without saying: no plastic bags. Ever! People argue that they reuse
 them, but how many times must they be reused to justify the decades they will be
-hanging around afterwards? Must they be handed down to their children to offset
-the manufacturing cost and environmental impact? Even official bags-for-life are
-unlikely to last for the duration of your lifetime as claimed. But a cotton bag
-will at least have a chance of decomposition when it has reached the end of its
-useful life.
+hanging around afterwards? Why do they need a bag to keep all the plastic bags
+in? Must they be handed down to their children to offset the manufacturing cost
+and environmental impact? Even official bags-for-life are unlikely to last for
+the duration of your lifetime as claimed. But a cotton bag will at least have a
+chance of decomposition when it has reached the end of its useful life.
 
 The answer can only be to not use plastic bags at all. See [this
 article](http://www.wsj.com/articles/SB122238422541876879) in the Wall Street
@@ -39,13 +39,6 @@ Sainsbury's @sainsburys  Jan 12 2016:
 
 "@deanturbo Hi Dean, they're made of recycled material and are recyclable, we'll
 replace them free of charge if they become damaged." 
-
-And here are some biodegradable bin bags from Infinity Foods. See
-[d2w](http://d2w.net).
-
-![](images/binbags_d2w.jpg)
-
-![](images/bag_hisbe.jpg)
 
 ## Alternative recycling companies
 * http://www.magpie.coop/services/greenbox
