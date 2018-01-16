@@ -92,11 +92,9 @@ And more recently, toilet roll made from recycled paper.
 
 ![](images/toiletroll_waitrose2.jpg)
 
-[< Top](readme.md)
 # Condiments
-[< Top](readme.md)
 
-# Sugar
+## Sugar
 I used to use Billington's for bread making but why does it only come
 wrapped in plastic? Old school Tate and Lyle it is. 
 
@@ -110,7 +108,7 @@ Or just for kicks why not try coconut sugar?
 
 ![](images/coconut_sugar.jpg)
 
-# Salt
+## Salt
 hisBe have pulled out the stops and are now enabling us to buy salt without also buying bits of plastic to pour it with.
 
 ![](images/salt_hisbe.jpg)
@@ -119,7 +117,7 @@ Alternatively, Tidman's might just save the day.
 
 http://www.maldonsalt.co.uk/Products-Tidmans-Salt.html
 
-# Vegetable bouillon
+## Vegetable bouillon
 Not something I'd even considered buying loose. hisBe are great.
 
 ![](images/bouillon.jpg)
@@ -157,11 +155,9 @@ fussy&mdash;and we shall&mdash;they both feature an unnecessary plastic tab on t
 ![](images/oats_flahavans.jpg)
 ![](images/oats_mornflake.jpg)
 
-[< Top](readme.md)
 # Dairy
-[< Top](readme.md)
 
-# Cheese
+## Cheese
 Where can you buy cheese without any packaging? Tricky. La Cave à Fromage in
 Hove is the answer. They're very accommodating and let me use my own box for my
 delicious [Mayfield
@@ -174,13 +170,18 @@ And here's some Labneh (curd/yoghurt) in a reusable jar from Taj.
 
 ![](images/labneh_taj.jpg)
 
-[< Top](readme.md)
 # Fermentation
-[< Top](readme.md)
 
-All these recipes use a percentage of salt. If 1.6% salt is required, 1000g of veg would need 16g of salt. But you should always taste the raw mix anyway. 1.6% is the minimum I've gotten away with and experienced no spoiling. But this is in my climate (southern UK) and my house.
+All these recipes use a percentage of salt. If 1.6% salt is required, 1000g of
+veg would need 16g of salt. But you should always taste the raw mix anyway. 1.6%
+is the minimum I've gotten away with and experienced no spoiling. But this is in
+my climate (southern UK) and my house.
 
-# Basic principles of fermented cabbage
+## Basic principles of fermented cabbage
+
+Shop bought fermented goods are pretty pricey considering it's mostly cabbage.
+But it's really easy to get involved.
+
 ![](images/kimchi1.jpg)
 
 There's plenty of shop-bought kimchi in Brighton but very few in eco-friendly
@@ -208,7 +209,9 @@ like the taste on a certain day move it to the fridge to slow it down.
 ![](images/kimchi2.jpg)
 ![](images/kimchi4.jpg)
 
-# Fermented salsa
+## Fermented salsa
+
+A very quick ferment that goes with anything.
 
 - Two large tomatoes, coarsely chopped
 - Half as much onion as toms, 5mm dice
@@ -233,7 +236,7 @@ anything untoward occurring.
 ![](images/fermented_salsa1.jpg)
 ![](images/fermented_salsa2.jpg)
 
-# Okraut
+## Okraut
 
 A experiment to see how okra behaves. The addition of okra makes it quite slippery! So possibly not for everybody. But
 still.
@@ -254,11 +257,9 @@ Use an abrasive like old rice and a few drops of washing up liquid.
 
 See mowerdog's [video](https://www.youtube.com/watch?v=HzPQDWTMAVQ).
 
-[< Top](readme.md)
 # Fruit
-[< Top](readme.md)
 
-# Fresh fruit
+## Fresh fruit
 Why would you buy a net of tiny lemons from a supermarket when you could have
 these beauties?
 
@@ -282,7 +283,7 @@ choice of carbon footprint: Argentina, Chile or New Zealand.
 
 ![](images/apples2_waitrose.jpg)
 
-# Dried fruit
+## Dried fruit
 A lot of things can only be found in hisBe.
 
 Deydrated coconut
@@ -307,10 +308,9 @@ Loose apricots from Taj.
 
 ![](images/apricots_taj.jpg)
 
-Taj hack: they don't offer paper bags apart from for the takeaway curries and the
-baguettes. So go and use them!
+Taj hack: they don't offer paper bags apart from for the takeaway curries and
+the baguettes. So go and use them!
 
-[< Top](readme.md)
 # Marinade
 * Ginger
 * Garlic
@@ -330,7 +330,7 @@ baguettes. So go and use them!
 * Salt
 * Olive oil
 * Roasted paprika
-# Misc
+
 # Ready meals
 The veggie ready meal section in Waitrose. Without exception each has a plastic tray or panel.
 
@@ -382,10 +382,6 @@ Brighton), Tom Griffiths (Flank) and Lauren Singer.
 # Articles
 * http://www.independent.co.uk/news/world/americas/plastic-rubbish-tide-caribbean-island-roatan-honduras-coast-pollution-a8017381.html
 
-[< Top](readme.md)
-# Myr
-[< Top](readme.md)
-
 # Mid-year review
 
 What's the best way to assess your plastic usage? Keep all of it.
@@ -399,9 +395,7 @@ It also makes you consider how much you want that bag of crisps knowing that the
 bag will be hanging around for decades. Conveniently, processed food usually
 comes in plastic so it makes it quite easy to avoid.
 
-## 2017
-
-### July to December
+## 2017 - 2
 
 * Karg's wrappers and ties
 * Crisp packets
@@ -414,7 +408,7 @@ comes in plastic so it makes it quite easy to avoid.
 
 ![](images/zero-waste-review-2017-2.jpg)
 
-### January - June
+## 2017 - 1
 
 * Karg's wrappers
 * Roasted fava beans
@@ -428,7 +422,7 @@ comes in plastic so it makes it quite easy to avoid.
 
 ![](images/zero-waste-review-2017-1.jpg)
 
-## 2016
+## 2016 - 2
 
 * Tin foil from chocolate bars and breakfast roll
 * Fruit trays
@@ -440,6 +434,9 @@ comes in plastic so it makes it quite easy to avoid.
 * Foil wrappers from crisps, seeds and chocolate
 
 ![](images/zero-waste-review-2016-2.jpg)
+
+## 2016 - 1
+![](images/zero-waste-review-2016-1.jpg)
 
 # Natto
 Biggest tip is to make sure the soybeans are very well cooked. Almost over
@@ -485,8 +482,6 @@ Image by [Plastic Soup Foundation](https://www.facebook.com/PlasticSoupFoundatio
 - [Animal welfare and passive aggression](welfare.md)
 - [Zero waste shopping](zero-waste-shops.md)
 - [Misc](misc.md)
-# Recipes
-[< Top](readme.md)
 
 # Granola
 I've been thinking about this granola for a while and finally found some dried
@@ -551,11 +546,9 @@ it to the top for a further four minutes.
 ![](images/sandwich1.jpg)
 ![](images/spinach_roots.jpg)
 
-[< Top](readme.md)
 # Recycling
-[< Top](readme.md)
 
-# Which types of plastic can be recycled?
+## Which types of plastic can be recycled?
 From [Brighton and Hove recycling
 FAQ](http://www.brighton-hove.gov.uk/content/environment/recycling-rubbish-and-street-cleaning/recycling-faqs)
 
@@ -657,15 +650,11 @@ And here are some biodegradable bin bags from Infinity Foods. See
 
 ![](images/bag_hisbe.jpg)
 
-# Alternative recycling companies
+## Alternative recycling companies
 * http://www.magpie.coop/services/greenbox
 
 # How long until it's gone?
 ![](images/how-long.jpg)
-
-[< Top](readme.md)
-# Shops
-[< Top](readme.md)
 
 # Shops
 
@@ -686,17 +675,15 @@ surrounding businesses.
 ## Burger Brothers
 Burger specialists and they use reassuringly biodegradable boxes.
 
-[< Top](readme.md)
 # Sport
-[< Top](readme.md)
 
-# Energy gels
+## Energy gels
 Gels are the scourge of the countryside. I find it baffling that people just
 throw the clearly non-biodegradable foil away. Instead of these I fill my water
 bottle with sugar and fruit tea (if I'm feeling that way). Not quite the hit of
 a gel but I can't justify such waste as a weekend athlete.
 
-# Bike clips
+## Bike clips
 Old school "trouser bands" rather then the cooler snappy things that are made
 from bits of plastic and self-destruct after a couple of months.
 
@@ -704,14 +691,10 @@ Edit: but they're not very good! Will try them again.
 
 ![](images/trouser_bands.jpg)
 
-# Snacks
+## Snacks
 Pop some loose apricots from Taj in your jersey.
 
 ![](images/apricots_taj.jpg)
-
-[< Top](readme.md)
-# Tea
-[< Top](readme.md)
 
 # Tea, please...
 A goodly selection of loose tea and tea-supping accoutrements from Bluebird Tea Co. and 10% discount for bringing your own pot.
@@ -739,16 +722,14 @@ As an aside: all three look like they're tied shut. But the Heath and Heather
 also appear to be thermally sealed suggesting a small quantity of plastic in the
 paper mix.
 
-[< Top](readme.md)
 # Veg
-[< Top](readme.md)
 
-# Loose peppers
+## Loose peppers
 In Waitrose you can buy two loose peppers. Or two peppers in a plastic bag. 
 
 ![](images/peppers_waitrose.jpg)
 
-# Lemongrass
+## Lemongrass
 A nice bit of lemongrass from Taj.
 
 ![](images/lemongrass_taj.jpg)
@@ -757,7 +738,7 @@ You can repurpose the bands or make an awesome rubber band ball!
 
 ![](images/rubberband_ball.jpg)
 
-# Sandwich greens
+## Sandwich greens
 All major supermarkets pack their greens in plastic so they're out. However, Taj
 do bundles of spinach with no packaging; we just need to juice the stems, compost the
 roots and put the rubber bands to good use.
@@ -769,9 +750,21 @@ Proper spring onions from Taj!
 
 ![](images/spring_onions.jpg)
 
-[< Top](readme.md)
-# Welfare
-[< Top](readme.md)
+# Zero-waste-shops
+
+Places that encourage no packaging:
+
+* [The Food Shed](http://www.foodshedbrighton.com/dry-food.html)
+* hisBe
+* Taj
+* Infinity Foods
+
+# Waitrose
+
+Quite a nice illustration of the craziness of packaging! The same mushrooms
+appear to be cheaper if you put them in a paper bag yourself.
+
+![](images/waitrose_mushrooms.jpg)
 
 # Animal welfare and passive aggression (skip if not important to you)
 
@@ -791,8 +784,9 @@ benefit or the animal?
 How can you love animals and eat _any_ of them? You love consuming animals? You
 love _some_ animals and eat the rest?
 
-## "I just want to help the [endagered] animals [but I'm not a vegan]"
-You just want to help them into your belly!
+## "I just want to help the animals [but I'm not a vegan]"
+You just want to help them into your belly! How can that not be hypocritical?
+You just want to help *some* of the animals.
 
 ## "I eat cows but eating dogs is wrong"
 What's acceptable to eat is, of course, completely arbitrary and driven by
@@ -800,12 +794,12 @@ culture and religion.
 
 Is it size? I don't think so: cows are good (unless you're Hindu), horses bad.
 
-Is it intelligence? No. Pigs are as intelligent as dogs.
+Is it intelligence? No, pigs are pretty smart.
 
 Is it scarcity? Still no. Tigers bad, cod fine.
 
-Is it cuteness? Absolutely not. We eat tonnes of lamb but foxes go untouched
-bar the hunting.
+Is it cuteness? Absolutely not. We eat tonnes of lamb but foxes go untouched.
+(Bar the sport.)
 
 ## "Animals are there for us to eat"
 For survival, perhaps. But we grow plants to mass produce animals. If they're
@@ -816,26 +810,11 @@ soy-fed cow crocs are tastier than grass-fed cattle?
 Or we could just eat the soy and live perfectly healthy lives without killing
 anything.
 
-[< Top](readme.md)
-# Zero-waste-shops
-[< Top](readme.md)
-
-Places that encourage no packaging:
-
-* [The Food Shed)(http://www.foodshedbrighton.com/dry-food.html)
-* hisBe
-* Taj
-* Infinity Foods
-
-# Waitrose
-
-Quite a nice illustration of the craziness of packaging! The same mushrooms
-appear to be cheaper if you put them in a paper bag yourself.
-
-![](images/waitrose_mushrooms.jpg)
-
 # To sort
 
+Glass jars are good!
+
 ![](images/glass_jars.jpg not referenced)
+
+Bamboo socks.
 ![](images/socks.jpg not referenced)
-![](images/zero-waste-review-2016-1.jpg not referenced)
