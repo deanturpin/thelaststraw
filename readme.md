@@ -20,7 +20,6 @@ do bundles of spinach with no packaging; we just need to juice the stems,
   compost the roots and put the rubber bands to good use.
 
 ![](images/spinach_taj.jpg)
-![](images/spinach_taj2.jpg)
 ![](images/spring_onions.jpg)
 
 ## Bluebird Tea Company
