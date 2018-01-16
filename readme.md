@@ -1,3 +1,10 @@
+# Give me convenience...
+
+What appears to be convenience for the shopper could actually be deft slight of
+hand by the mass producer. The producer enjoy prolonged shelf-life and
+protection whilst shipping and disposing of the packaging is passed on to the
+consumer.
+
 # Bread
 
 Shop bought bread can really only come from a proper baker. In this case it's
@@ -820,4 +827,15 @@ Places that encourage no packaging:
 * Taj
 * Infinity Foods
 
-[< Top](readme.md)
+# Waitrose
+
+Quite a nice illustration of the craziness of packaging! The same mushrooms
+appear to be cheaper if you put them in a paper bag yourself.
+
+![](images/waitrose_mushrooms.jpg)
+
+# To sort
+
+![](images/glass_jars.jpg not referenced)
+![](images/socks.jpg not referenced)
+![](images/zero-waste-review-2016-1.jpg not referenced)
