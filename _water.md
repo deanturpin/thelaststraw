@@ -13,5 +13,3 @@ For some bottle facts see [Ban the
 Bottle](https://www.banthebottle.net/bottled-water-facts/). And see how
 [Southern Water](https://www.southernwater.co.uk/water-treatment) treat what
 comes out of our taps.
-
-![](images/plastic_waitrose.jpg)

@@ -50,6 +50,10 @@ for bringing your own pot. Smells great in there.
 ## La Cave à Fromage
 Specialist cheese shop and very supportive of the cause.
 
+## The Food Shed
+Another zero waste warrior Brighton Open Market. Lots of loose products
+available and a 10% discount for using your own containers.
+
 # Mainstream supermarkets
 
 ## Waitrose (Western Road)
@@ -72,9 +76,8 @@ The own-brand bulk-by [toilet paper](images/toiletroll_waitrose1.jpg) is
 apparently from "FSC approved sources" and the wrapper can be returned to the
 in-store bag recycling box.
 
-## The Food Shed
-Another zero waste warrior Brighton Open Market. Lots of loose products
-available and a 10% discount for using your own containers.
+Waitrose also offer a range of organic apples, sealed in plastic with a choice
+of carbon footprint: Argentina, Chile or New Zealand.
 
 ## TK Maxx
 TK is quite a good place to pick up [items](images/socks.jpg) with minimal
@@ -82,24 +85,7 @@ packaging. Although you do feel a bit "shop lifty" walking out with an unbagged
 jacket. I guess it just takes time.
 # Bread
 
-Shop bought bread can really only come from a proper baker. In this case it's
-chewy white from Real Pâtisserie.
-
-![](images/bread_real_patisserie.jpg)
-
-You can also buy Real Pâtisserie bread from Taj but it mostly comes in
-perforated plastic bags. Apart from the baguettes!
-
-![](images/baguettes.jpg)
-
-Cracking sea salt and rosemary sourdough from hisBe.
-
-![](images/bread_hisbe.jpg)
-
-Deft lame work from Silo.
-
-![](images/bread_silo.jpg)
-
+Bread should only really only come from a proper baker like [Real Pâtisserie](images/bread_real_patisserie.jpg). You can actually buy their bread from Taj but it mostly comes in those perforated plastic bread bags. Other breads of note are from [hisBe](images/bread_hisbe.jpg) [Silo](images/bread_silo.jpg).
 # Changes
 
 Changes I've made since meeting [Silo](http://www.silobrighton.com/)/[Trash is
@@ -121,56 +107,32 @@ for Tossers](http://www.trashisfortossers.com/)/[Alchemy
 * Keep a zero waste pot at work
 
 ## Foraging
-* Interest in mushrooms (not confident enough to eat them yet)
-* Gathering easy plants (herbs, wild garlic)
-
-# Every day
+* Interest in mushrooms (although not confident enough to eat them yet)
+* Foraging easy wild ingredients (wild garlic)
+# Every day ingredients
 
 ## Oil
-Coconut is a highly versatile oil for all cooking and in fact as moisturiser.
-The 500g jars are a really useful size to reuse.
+Coconut is a highly versatile oil for all cooking and I also use it daily
+moisturiser. The 500g jars are a really useful size to reuse.
 
 ## Sugar
-I used to use Billington's for bread making but why does it only come
-wrapped in plastic? Old school Tate and Lyle it is. 
-
-![](images/sugar_tate.jpg)
-
-Paper packaging, made in Britain: cannot argue with that.
-
-![](images/sugar_silverspoon.jpg)
-
-Or just for kicks why not try coconut sugar?
-
-![](images/coconut_sugar.jpg)
+I've used Billington's sugar for bread making in the past but why does it only
+come wrapped in plastic? Old school [Tate and Lyle](images/sugar_tate.jpg) it
+is. Or just for kicks why not try [coconut sugar](images/coconut_sugar.jpg)?
 
 ## Salt
-hisBe have pulled out the stops and are now enabling us to buy salt without also
-buying bits of plastic to pour it with.
-
-![](images/salt_hisbe.jpg)
-
-Alternatively, Tidman's might just save the day.
-
-http://www.maldonsalt.co.uk/Products-Tidmans-Salt.html
+hisBe have pulled out the stops and are now enabling us to buy
+[salt](images/salt_hisbe.jpg)without also buying bits of plastic to pour it
+with. Alternatively, you might try
+[Tidman's](http://www.maldonsalt.co.uk/Products-Tidmans-Salt.html)
 
 ## Vegetable bouillon
-Not something I'd even considered buying loose. hisBe are great.
-
-![](images/bouillon.jpg)
+Not something I'd even considered buying [loose](images/bouillon.jpg)
+. hisBe are great.
 
 ## Honey
-
-![](images/honey_brighton.jpg)
-
-Spoilt for choice with honey. This was excellent from Surrey. So good I ate it
-before I managed to take a photo.
-
-![](images/honey_surrey.jpg)
-
-A great selection of Payne's honey from Taj.
-
-![](images/honey_paynes.jpg)
+We're spoilt for choice with [honey](images/honey_surrey.jpg). Taj do a great
+selection of the local [Payne's](images/honey_paynes.jpg) brand.
 
 ## Oats
 hisBe's [loose oats](images/oats_hisbe.jpg) are very reasonably priced and of
@@ -181,30 +143,6 @@ panel were from [Pimhill Farm](images/oats_pimhill.jpg). But you can also try
 [Wessex Mill](images/oats_wessexmill.jpg) who make great flour. There are a
 couple of *mostly* plastic free options but look out for the tape seal at the
 top of the packet.
-
-## Fresh fruit
-Why would you buy a net of tiny lemons from a supermarket when you could have
-these beauties?
-
-![](images/lemon_taj.jpg)
-
-And finally some loose British apples from Taj!
-
-![](images/british_apples.jpg)
-
-Loose apples from Waitrose.
-
-![](images/apples_waitrose.jpg)
-
-And loose French Pink Ladies from Sainsbury's Local. Expensive at £4+ per
-kilo but still.
-
-![](images/apple_sainsburys.jpg)
-
-By contrast, organic apples from Waitrose. Each sealed in plastic and with a
-choice of carbon footprint: Argentina, Chile or New Zealand.
-
-![](images/apples2_waitrose.jpg)
 
 ## Tea
 Check your current tea bags: how have they been sealed? Ideally we don't want
@@ -225,17 +163,12 @@ food/environment pullouts come in a plastic bag.
 * The zero waste restaurant, the only things that leave are diners and compost:
   http://www.silobrighton.com/
 * Small scale plastic processing kits: http://preciousplastic.com/
-
-## Plastic Soup Foundation
-
-![](images/plastic_soup_foundation.jpg)
-
-Image by [Plastic Soup Foundation](https://www.facebook.com/PlasticSoupFoundation/).
-
-## Articles
+* Plastic Soup Foundation: https://www.facebook.com/PlasticSoupFoundation
 * http://www.independent.co.uk/news/world/americas/plastic-rubbish-tide-caribbean-island-roatan-honduras-coast-pollution-a8017381.html
 
 ## Six month review
+(Inspired by Lauren Singer's zero waste jar.)
+
 What's the best way to assess your plastic usage? Keep all of it.
 
 Pledge to keep everything that is neither biodegradable nor recyclable in your
@@ -244,53 +177,8 @@ it. It makes it all the more horrifying when you have to thrown it away in bulk,
 knowing that it's destined for the landfill.
 
 It also makes you consider how much you want that bag of crisps knowing that the
-bag will be hanging around for decades. Conveniently, processed food usually
-comes in plastic so it makes it quite easy to avoid.
-
-## 2017 - 2
-
-* Karg's wrappers and ties
-* Crisp packets
-* Sweet wrappers
-* Blister packs
-* Coffee lid
-* Quorn sausage roll packet
-* Chocolate bar foil
-* Coffee machine cups (damn machine occasionally ignores my mug!)
-
-![](images/zero-waste-review-2017-2.jpg)
-
-## 2017 - 1
-
-* Karg's wrappers
-* Roasted fava beans
-* Cracker box
-* Crisps
-* Blister pack
-* Apple stickers
-* Coffee lids
-* Quorn sausage roll
-* Chocolate bar foil
-
-![](images/zero-waste-review-2017-1.jpg)
-
-## 2016 - 2
-
-* Tin foil from chocolate bars and breakfast roll
-* Fruit trays
-* Apple stickers
-* Coffee lids
-* Bike light/shirt packaging
-* Vitamins and medicine In blister packs
-* Assorted plastic bags (mostly fruit and bread)
-* Foil wrappers from crisps, seeds and chocolate
-
-![](images/zero-waste-review-2016-2.jpg)
-
-## 2016 - 1
-
-![](images/zero-waste-review-2016-1.jpg)
-
+bag will be hanging around long after you've finished. Conveniently, processed
+food usually comes in plastic so it makes it quite easy to avoid.
 # Plastic bags
 
 It goes without saying: no plastic bags. Ever! People argue that they reuse
@@ -387,25 +275,12 @@ Or we could just eat the soy and live perfectly healthy lives without killing
 anything.
 # Ready meals
 
-The veggie ready meal section in Waitrose. Without exception each has a plastic
-tray or panel.
-
-![](images/readymeal_waitrose.jpg)
-
-Interestingly the frozen section has plenty of choice in simply packaged
-products. We prefer a plastic panel on our fresh stuff?
-
-![](images/frozen-versus-fresh-products.jpg)
-
-## I remember when everything around here was sealed in small claustrophobic boxes
-Before long all you see is plastic. Equal-portioned high-carbon footprint
-produce condemned to a petrochemical tomb. As nature intended.
-# Recycling and upcycling
-
-## Bottle-cutting
-Plant pots made with a Kinkajou bottle cutter.
-
-![](images/kinkajou-plantpot.jpg)
+The veggie ready meal section in Waitrose: without exception each
+[product](images/readymeal_waitrose.jpg) has a plastic tray or panel. After a
+while you just start seeing the plastic. Interestingly, though, the frozen
+  section has plenty of choice in [simply packaged
+  products](images/frozen-versus-fresh-products.jpg).
+# Recycling
 
 ## Which types of plastic can be recycled?
 From [Brighton and Hove recycling
@@ -442,27 +317,14 @@ And come contradictory advice from Twitter:
 >  want to remove them. Plastic bottles can have them left on. Ryan.
 
 ## Soya milk and Tetra Pack recycling
-Couldn't find the Tetra Pack recycling point on the [council
+I couldn't find the [Tetra Pack](images/tetrapacks.jpg) recycling point on the [council
 website](http://www.brighton-hove.gov.uk/content/recycling-bins-map) but it's
 [here](https://www.google.co.uk/maps/@50.8285584,-0.1377455,3a,15y,296.01h,78.37t/data=!3m6!1e1!3m4!1swEfHWdBDEH__9ClosMu0Vg!2e0!7i13312!8i6656?hl=en).
 Magpie might collect them too.
 
-![](images/tetrapacks.jpg)
-
-Alpro and granaVita have slightly fewer components: some of them have an extra plastic bung. 
-
-![](images/soya_milk.jpg)
-
-And Bonsoy has no plastic bits... yey! (But it is twice the price.)
-
-![](images/bonsoy.jpg)
-
-## Refuse collection
-It's easy to forget how convenient it is for somebody else to sort your rubbish
-out for you. Brighton during the bin strike, June 2013. 
-
-![](images/bin_strike.jpg)
-
+[Alpro and granaVita](images/soya_milk.jpg) have slightly fewer components: some
+of them have an extra plastic bung. [Bonsoy](images/bonsoy.jpg) has no plastic
+bits but it is twice the price.
 # Dining out
 
 ## Silo
@@ -488,15 +350,11 @@ For some bottle facts see [Ban the
 Bottle](https://www.banthebottle.net/bottled-water-facts/). And see how
 [Southern Water](https://www.southernwater.co.uk/water-treatment) treat what
 comes out of our taps.
-
-![](images/plastic_waitrose.jpg)
 # Recipes
 
 ## Granola
-I've been thinking about this granola for a while. It's quite hard to buy dried
+I've been thinking about this [granola](images/granola.jpg) for a while. It's quite hard to buy dried
 fruit without also buying a plastic bag.
-
-![](images/granola.jpg)
 
 * 300g large oats
 * 60g cacao nibs
@@ -524,28 +382,6 @@ Starting with 300g of oats makes one baking tray's worth. I tend to do two at
 once, the lower one stays in for the first eight minutes, stir and then I bring
 it to the top for a further four minutes.
 
-### Waste
-Paper packaging in the recycling and reuse the jars.
-
-## Epic cheese sandwich
-
-![](images/sandwich2.jpg)
-
-- Bread, Silo
-- Smoked cheddar, La Cave à Fromage
-- Spinach, Taj
-- Tomatoes, The Open Market
-- Harissa and mayonnaise in glass jars (no plastic seal), Waitrose
-
-### Waste
-- Two paper bags to recycle/reuse 
-- Two rubber bands to repurpose
-- Stalks in the Nutribullet
-- Roots and vines in the compost
-
-![](images/sandwich1.jpg)
-![](images/spinach_roots.jpg)
-
 ## Drying fruit
 Drying is really good way to extend the life of fruit. Apples work particularly
 well: slice to 2mm with the skin on - cookers and eaters - spread out on
@@ -562,9 +398,7 @@ bottling.
 
 ## Basic principles of fermented cabbage
 Shop bought fermented goods are pretty pricey considering it's mostly cabbage.
-But it's really easy to get involved.
-
-![](images/kimchi1.jpg)
+But it's really easy to [get involved](images/kimchi1.jpg).
 
 There's plenty of shop-bought kimchi in Brighton but very few in eco-friendly
 packaging. So why not make your own?
@@ -588,17 +422,14 @@ The flavour profile evolves over the course of a few weeks. If you manage to not
 eat it all you'll notice the taste drops off after a few weeks. If you really
 like the taste on a certain day move it to the fridge to slow it down.
 
-![](images/kimchi2.jpg)
-![](images/kimchi4.jpg)
-
 ## Fermented salsa
-A very quick ferment that goes with anything.
+A very quick ferment that goes with [anything](images/fermented_salsa2.jpg).
 
-- Two large tomatoes, coarsely chopped
-- Half as much onion as toms, 5mm dice
-- Two garlic cloves, finely chopped
-- A few radishes, finely sliced
-- One red chilli, finely sliced
+* Two large tomatoes, coarsely chopped
+* Half as much onion as toms, 5mm dice
+* Two garlic cloves, finely chopped
+* A few radishes, finely sliced
+* One red chilli, finely sliced
 
 The denser the vegetable the finer it needs cutting.
 
@@ -614,16 +445,9 @@ dd to a jar, almost to the brim, pop the lid on and leave in a dark cupboard for
 up to a week. You can put it in a fridge if you like but the acidity should stop
 anything untoward occurring.
 
-![](images/fermented_salsa1.jpg)
-![](images/fermented_salsa2.jpg)
-
 ## Okraut
-A experiment to see how okra behaves. The addition of okra makes it quite slippery! So possibly not for everybody. But
-still.
-
-![](images/okrachi1.jpg)
-![](images/okrachi2.jpg)
-![](images/okrachi3.jpg)
+A experiment to see how okra [behaves](images/okrachi3.jpg). The addition of
+okra makes it quite slippery so possibly not for everybody. But still.
 
 ## Beer and wine
 [Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of beer

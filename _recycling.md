@@ -1,9 +1,4 @@
-# Recycling and upcycling
-
-## Bottle-cutting
-Plant pots made with a Kinkajou bottle cutter.
-
-![](images/kinkajou-plantpot.jpg)
+# Recycling
 
 ## Which types of plastic can be recycled?
 From [Brighton and Hove recycling
@@ -40,24 +35,11 @@ And come contradictory advice from Twitter:
 >  want to remove them. Plastic bottles can have them left on. Ryan.
 
 ## Soya milk and Tetra Pack recycling
-Couldn't find the Tetra Pack recycling point on the [council
+I couldn't find the [Tetra Pack](images/tetrapacks.jpg) recycling point on the [council
 website](http://www.brighton-hove.gov.uk/content/recycling-bins-map) but it's
 [here](https://www.google.co.uk/maps/@50.8285584,-0.1377455,3a,15y,296.01h,78.37t/data=!3m6!1e1!3m4!1swEfHWdBDEH__9ClosMu0Vg!2e0!7i13312!8i6656?hl=en).
 Magpie might collect them too.
 
-![](images/tetrapacks.jpg)
-
-Alpro and granaVita have slightly fewer components: some of them have an extra plastic bung. 
-
-![](images/soya_milk.jpg)
-
-And Bonsoy has no plastic bits... yey! (But it is twice the price.)
-
-![](images/bonsoy.jpg)
-
-## Refuse collection
-It's easy to forget how convenient it is for somebody else to sort your rubbish
-out for you. Brighton during the bin strike, June 2013. 
-
-![](images/bin_strike.jpg)
-
+[Alpro and granaVita](images/soya_milk.jpg) have slightly fewer components: some
+of them have an extra plastic bung. [Bonsoy](images/bonsoy.jpg) has no plastic
+bits but it is twice the price.

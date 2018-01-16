@@ -9,9 +9,7 @@ bottling.
 
 ## Basic principles of fermented cabbage
 Shop bought fermented goods are pretty pricey considering it's mostly cabbage.
-But it's really easy to get involved.
-
-![](images/kimchi1.jpg)
+But it's really easy to [get involved](images/kimchi1.jpg).
 
 There's plenty of shop-bought kimchi in Brighton but very few in eco-friendly
 packaging. So why not make your own?
@@ -35,17 +33,14 @@ The flavour profile evolves over the course of a few weeks. If you manage to not
 eat it all you'll notice the taste drops off after a few weeks. If you really
 like the taste on a certain day move it to the fridge to slow it down.
 
-![](images/kimchi2.jpg)
-![](images/kimchi4.jpg)
-
 ## Fermented salsa
-A very quick ferment that goes with anything.
+A very quick ferment that goes with [anything](images/fermented_salsa2.jpg).
 
-- Two large tomatoes, coarsely chopped
-- Half as much onion as toms, 5mm dice
-- Two garlic cloves, finely chopped
-- A few radishes, finely sliced
-- One red chilli, finely sliced
+* Two large tomatoes, coarsely chopped
+* Half as much onion as toms, 5mm dice
+* Two garlic cloves, finely chopped
+* A few radishes, finely sliced
+* One red chilli, finely sliced
 
 The denser the vegetable the finer it needs cutting.
 
@@ -61,16 +56,9 @@ dd to a jar, almost to the brim, pop the lid on and leave in a dark cupboard for
 up to a week. You can put it in a fridge if you like but the acidity should stop
 anything untoward occurring.
 
-![](images/fermented_salsa1.jpg)
-![](images/fermented_salsa2.jpg)
-
 ## Okraut
-A experiment to see how okra behaves. The addition of okra makes it quite slippery! So possibly not for everybody. But
-still.
-
-![](images/okrachi1.jpg)
-![](images/okrachi2.jpg)
-![](images/okrachi3.jpg)
+A experiment to see how okra [behaves](images/okrachi3.jpg). The addition of
+okra makes it quite slippery so possibly not for everybody. But still.
 
 ## Beer and wine
 [Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of beer

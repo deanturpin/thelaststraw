@@ -19,6 +19,5 @@ for Tossers](http://www.trashisfortossers.com/)/[Alchemy
 * Keep a zero waste pot at work
 
 ## Foraging
-* Interest in mushrooms (not confident enough to eat them yet)
-* Gathering easy plants (herbs, wild garlic)
-
+* Interest in mushrooms (although not confident enough to eat them yet)
+* Foraging easy wild ingredients (wild garlic)

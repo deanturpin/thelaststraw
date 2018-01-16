@@ -50,6 +50,10 @@ for bringing your own pot. Smells great in there.
 ## La Cave à Fromage
 Specialist cheese shop and very supportive of the cause.
 
+## The Food Shed
+Another zero waste warrior Brighton Open Market. Lots of loose products
+available and a 10% discount for using your own containers.
+
 # Mainstream supermarkets
 
 ## Waitrose (Western Road)
@@ -72,9 +76,8 @@ The own-brand bulk-by [toilet paper](images/toiletroll_waitrose1.jpg) is
 apparently from "FSC approved sources" and the wrapper can be returned to the
 in-store bag recycling box.
 
-## The Food Shed
-Another zero waste warrior Brighton Open Market. Lots of loose products
-available and a 10% discount for using your own containers.
+Waitrose also offer a range of organic apples, sealed in plastic with a choice
+of carbon footprint: Argentina, Chile or New Zealand.
 
 ## TK Maxx
 TK is quite a good place to pick up [items](images/socks.jpg) with minimal

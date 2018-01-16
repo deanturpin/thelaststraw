@@ -1,10 +1,8 @@
 # Recipes
 
 ## Granola
-I've been thinking about this granola for a while. It's quite hard to buy dried
+I've been thinking about this [granola](images/granola.jpg) for a while. It's quite hard to buy dried
 fruit without also buying a plastic bag.
-
-![](images/granola.jpg)
 
 * 300g large oats
 * 60g cacao nibs
@@ -31,28 +29,6 @@ baking tray.
 Starting with 300g of oats makes one baking tray's worth. I tend to do two at
 once, the lower one stays in for the first eight minutes, stir and then I bring
 it to the top for a further four minutes.
-
-### Waste
-Paper packaging in the recycling and reuse the jars.
-
-## Epic cheese sandwich
-
-![](images/sandwich2.jpg)
-
-- Bread, Silo
-- Smoked cheddar, La Cave à Fromage
-- Spinach, Taj
-- Tomatoes, The Open Market
-- Harissa and mayonnaise in glass jars (no plastic seal), Waitrose
-
-### Waste
-- Two paper bags to recycle/reuse 
-- Two rubber bands to repurpose
-- Stalks in the Nutribullet
-- Roots and vines in the compost
-
-![](images/sandwich1.jpg)
-![](images/spinach_roots.jpg)
 
 ## Drying fruit
 Drying is really good way to extend the life of fruit. Apples work particularly
