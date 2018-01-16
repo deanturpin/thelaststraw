@@ -2,6 +2,7 @@ What appears to be convenience for the shopper is really slight of hand by the
 mass producer. The producer enjoys longer shelf-life and protection during
 shipping and disposing of the packaging is passed on to the consumer.
 
+<!-- ******************************** SECTION ****************************** -->
 # Businesses that actively encourage no packaging
 
 ## Infinity Foods
@@ -34,6 +35,7 @@ High end cheese shop. And the only one that gets it.
 
 ![](images/cheese_lacave.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Mainstream supermarkets
 
 ## Waitrose (Western Road)
@@ -52,6 +54,7 @@ recycling.
 
 ## Sainsbury's (near Waitrose)
 
+<!-- ******************************** SECTION ****************************** -->
 # Clothes
 
 ## TK Maxx
@@ -59,6 +62,7 @@ Bamboo socks in card packaging.
 
 ![](images/socks.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Dining out
 
 ## Silo
@@ -70,6 +74,7 @@ businesses.
 ## Burger Brothers
 Burger specialists and they use reassuringly biodegradable boxes.
 
+<!-- ******************************** SECTION ****************************** -->
 # Bread
 
 Shop bought bread can really only come from a proper baker. In this case it's
@@ -93,12 +98,14 @@ Deft lame work from Silo.
 
 ![](images/bread_silo.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Bottle-cutting
 
 Plant pots made with a Kinkajou bottle cutter.
 
 ![](images/kinkajou-plantpot.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Cleaning
 
 ## Toothbrushes
@@ -122,6 +129,7 @@ Loose fabric conditioner from hisBe:
 
 ![](images/fabric_conditioner.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Condiments
 
 ## Sugar
@@ -152,6 +160,7 @@ Not something I'd even considered buying loose. hisBe are great.
 
 ![](images/bouillon.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Honey
 
 ![](images/honey_brighton.jpg)
@@ -165,6 +174,7 @@ A great selection of Payne's honey from Taj.
 
 ![](images/honey_paynes.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Oats
 The first oats I found that didn't come in a plastic bag or a box with a plastic
 panel. They even suggest you compost the packet. Love Pimhill Farm!
@@ -186,21 +196,23 @@ fussy - and we shall - they both feature an unnecessary plastic tab on the top.
 ![](images/oats_flahavans.jpg)
 ![](images/oats_mornflake.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Dairy
 
 And here's some Labneh (curd/yoghurt) in a reusable jar from Taj.
 
 ![](images/labneh_taj.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Fermentation
+Fermentation is not readily practiced by much of society but a great skill and
+will get you on the road to preserving things when there’s an abundance.
 
 All these recipes use a percentage of salt. If 1.6% salt is required, 1000g of
-veg would need 16g of salt. But you should always taste the raw mix anyway. 1.6%
-is the minimum I've gotten away with and experienced no spoiling. But this is in
-my climate (southern UK) and my house.
+veg would need 16g of salt. But you should always taste the raw mix before
+bottling.
 
 ## Basic principles of fermented cabbage
-
 Shop bought fermented goods are pretty pricey considering it's mostly cabbage.
 But it's really easy to get involved.
 
@@ -267,12 +279,14 @@ still.
 ![](images/okrachi2.jpg)
 ![](images/okrachi3.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Beer and wine
 [Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of beer
 affectionately known as "growlers" from their shop on East Street. If purchasing
 tins of beer then don't choose those with six-pack rings. Ten packs come in a
 cardboard box with no plastic. Or go to the pub. Or brew your own!
 
+<!-- ******************************** SECTION ****************************** -->
 # Fruit
 ## Fresh fruit
 Why would you buy a net of tiny lemons from a supermarket when you could have
@@ -326,6 +340,7 @@ Loose apricots from Taj.
 Taj hack: they don't offer paper bags apart from for the takeaway curries and
 the baguettes. So go and use them!
 
+<!-- ******************************** SECTION ****************************** -->
 # Ready meals
 The veggie ready meal section in Waitrose. Without exception each has a plastic tray or panel.
 
@@ -336,10 +351,12 @@ products. We prefer a plastic panel on our fresh stuff?
 
 ![](images/frozen-versus-fresh-products.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Newspapers
 In the week newspapers are OK but inexplicably at the weekend the
 food/environment pullouts come in a plastic bag.
 
+<!-- ******************************** SECTION ****************************** -->
 # Water
 We're fortunate enough to have a good supply in Brighton so it's difficult to
 justify bottled water. But it is of course treated. If you're concerned about
@@ -361,15 +378,18 @@ produce condemned to a petrochemical tomb. As nature intended.
 
 ![](images/plastic_waitrose.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Inspiration
 * Zero waste superstar Lauren Singer: http://www.trashisfortossers.com/
 * The zero waste restaurant, the only things that leave are diners and compost:
   http://www.silobrighton.com/
 * Small scale plastic processing kits: http://preciousplastic.com/
 
+<!-- ******************************** SECTION ****************************** -->
 # Articles
 * http://www.independent.co.uk/news/world/americas/plastic-rubbish-tide-caribbean-island-roatan-honduras-coast-pollution-a8017381.html
 
+<!-- ******************************** SECTION ****************************** -->
 # Mid-year review
 
 What's the best way to assess your plastic usage? Keep all of it.
@@ -427,12 +447,14 @@ comes in plastic so it makes it quite easy to avoid.
 
 ![](images/zero-waste-review-2016-1.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Plastic Soup Foundation
 
 ![](images/plastic_soup_foundation.jpg)
 
 Image by [Plastic Soup Foundation](https://www.facebook.com/PlasticSoupFoundation/).
 
+<!-- ******************************** SECTION ****************************** -->
 # Recipes
 ## Granola
 I've been thinking about this granola for a while. It's quite hard to buy dried
@@ -488,6 +510,7 @@ Paper packaging in the recycling and reuse the jars.
 ![](images/sandwich1.jpg)
 ![](images/spinach_roots.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Recycling
 
 ## Which types of plastic can be recycled?
@@ -524,8 +547,12 @@ And come contradictory advice from Twitter:
 >  leave the ring attached to the bottle. You can cut them off if you really
 >  want to remove them. Plastic bottles can have them left on. Ryan.
 
+<!-- ******************************** SECTION ****************************** -->
 # Soya milk and Tetra Pack recycling
-Couldn't find the Tetra Pack recycling point on the [council website](http://www.brighton-hove.gov.uk/content/recycling-bins-map) but it's [here](https://www.google.co.uk/maps/@50.8285584,-0.1377455,3a,15y,296.01h,78.37t/data=!3m6!1e1!3m4!1swEfHWdBDEH__9ClosMu0Vg!2e0!7i13312!8i6656?hl=en). Magpie might collect them too.
+Couldn't find the Tetra Pack recycling point on the [council
+website](http://www.brighton-hove.gov.uk/content/recycling-bins-map) but it's
+[here](https://www.google.co.uk/maps/@50.8285584,-0.1377455,3a,15y,296.01h,78.37t/data=!3m6!1e1!3m4!1swEfHWdBDEH__9ClosMu0Vg!2e0!7i13312!8i6656?hl=en).
+Magpie might collect them too.
 
 ![](images/tetrapacks.jpg)
 
@@ -537,12 +564,14 @@ And Bonsoy has no plastic bits... yey! (But it is twice the price.)
 
 ![](images/bonsoy.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Refuse collection
 It's easy to forget how convenient it is for somebody else to sort your rubbish
 out for you. Brighton during the bin strike, June 2013. 
 
 ![](images/bin_strike.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Plastic bags
 
 It goes without saying: no plastic bags. Ever! People argue that they reuse
@@ -595,9 +624,11 @@ And here are some biodegradable bin bags from Infinity Foods. See
 ## Alternative recycling companies
 * http://www.magpie.coop/services/greenbox
 
+<!-- ******************************** SECTION ****************************** -->
 # How long until it's gone?
 ![](images/how-long.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Shops
 
 ## hiSbe Food CIC
@@ -606,6 +637,7 @@ So many loose products that you can only buy in hisBe.
 ## Infinity Foods (vegetarian)
 Long-established vegetarian supermarket.
 
+<!-- ******************************** SECTION ****************************** -->
 # Sport
 
 ## Energy gels
@@ -627,6 +659,7 @@ Pop some loose apricots from Taj in your jersey.
 
 ![](images/apricots_taj.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Tea, please...
 Heath and Heather offer tea without the unnecessary paper pouches.
 
@@ -648,6 +681,7 @@ As an aside: all three look like they're tied shut. But the Heath and Heather
 also appear to be thermally sealed suggesting a small quantity of plastic in the
 paper mix.
 
+<!-- ******************************** SECTION ****************************** -->
 # Veg
 
 ## Loose peppers
@@ -664,6 +698,7 @@ You can repurpose the bands or make an awesome rubber band ball!
 
 ![](images/rubberband_ball.jpg)
 
+<!-- ******************************** SECTION ****************************** -->
 # Changes
 
 Changes I've made since meeting [Silo](http://www.silobrighton.com/)/[Trash is
@@ -689,6 +724,7 @@ for Tossers](http://www.trashisfortossers.com/)/[Alchemy
 * Interest in mushrooms (not confident enough to eat them yet)
 * Gathering easy plants (herbs, wild garlic)
 
+<!-- ******************************** SECTION ****************************** -->
 # Animal welfare and passive aggression (skip if not important to you)
 
 ## "We are evolved to eat meat"
@@ -736,6 +772,7 @@ anything.
 ## Does zero waste matter if I don't have any children?
 It matters more if you have nobody to bequeath your plastic legacy.
 
+<!-- ******************************** SECTION ****************************** -->
 # To sort
 
 Glass jars are good!
