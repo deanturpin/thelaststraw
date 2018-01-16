@@ -4,9 +4,9 @@ shipping and disposing of the packaging is passed on to the consumer.
 
 ## Infinity Foods
 Firmly established vegetarian shop and organic advocate. Almost all of their veg
-is loose and they also have an excellent in-house bakery. They also sell
-biodegradable [toothbrushes](https://www.brushwithbamboo.com/) and
-[bin bags](http://d2w.net).
+is loose and they have an excellent in-house bakery. They also sell
+biodegradable [toothbrushes](https://www.brushwithbamboo.com/) and [bin
+bags](http://d2w.net).
 
 ## hiSbe Food CIC (how it Should be)
 The go-to place for package-free shopping. A large choice of produce in hoppers,
@@ -15,9 +15,6 @@ either take your own jars or use their paper bags. They also sell a selection of
 unpackaged soap bars.
 
 See also [The Food Shed](http://www.foodshedbrighton.com/dry-food.html).
-
-## Infinity Foods (vegetarian)
-Long-established vegetarian supermarket.
 
 ## Taj
 All major supermarkets pack their greens in plastic but Taj offer bundles of
@@ -36,7 +33,7 @@ band ball.
 They sell an interesting cheese alternative in a reusable jar: labneh. It's a
 beautifully sour strained yoghurt that you can spread on your toast.
 
-They also Vatika soap bars which come in a card box.
+They also Vatika soap bars which come in a card box (no inner plastic bag).
 
 ## Bluebird Tea Company
 A fantastic selection of loose tea and tea-supping accoutrements. 10% discount
