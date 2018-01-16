@@ -768,6 +768,9 @@ soy-fed cow crocs are tastier than grass-fed cattle?
 Or we could just eat the soy and live perfectly healthy lives without killing
 anything.
 
+## Does zero waste matter if I don't have any children?
+It matters more if you have nobody to bequeath your plastic legacy.
+
 # To sort
 
 Glass jars are good!
