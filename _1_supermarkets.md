@@ -18,9 +18,9 @@ See also [The Food Shed](http://www.foodshedbrighton.com/dry-food.html).
 Long-established vegetarian supermarket.
 
 ## Taj
-All major supermarkets pack their greens in plastic so they're out. However, Taj
-offer bundles of spinach with no packaging. They also sell lots of herbs and
-spices that you often don't see loose.
+All major supermarkets pack their greens in plastic but Taj offer bundles of
+spinach with no packaging. They also sell lots of herbs and spices that you
+often don't see loose.
 
 ![](images/spinach_taj.jpg)
 ![](images/spring_onions.jpg)
