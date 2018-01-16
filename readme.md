@@ -31,16 +31,19 @@ for bringing your own pot.
 
 ## La Cave à Fromage
 High end cheese shop. And the only one that gets it.
+
 ![](images/cheese_lacave.jpg)
 
 # Mainstream supermarkets
 
 ## Waitrose (Western Road)
 Remember to take your flask for the free coffee.
+
 ![](images/waitrose_free_coffee.jpg)
 
 Quite a nice illustration of the craziness of packaging! The same mushrooms
 appear to be cheaper if you put them in a paper bag yourself.
+
 ![](images/waitrose_mushrooms.jpg)
 
 Paper from FSC approved sources, the wrapper can go in the in-store bag
@@ -53,6 +56,7 @@ recycling.
 
 ## TK Maxx
 Bamboo socks in card packaging.
+
 ![](images/socks.jpg)
 
 # Dining out
@@ -149,6 +153,7 @@ Not something I'd even considered buying loose. hisBe are great.
 ![](images/bouillon.jpg)
 
 # Honey
+
 ![](images/honey_brighton.jpg)
 
 Spoilt for choice with honey. This was excellent from Surrey. So good I ate it
@@ -419,6 +424,7 @@ comes in plastic so it makes it quite easy to avoid.
 ![](images/zero-waste-review-2016-2.jpg)
 
 ## 2016 - 1
+
 ![](images/zero-waste-review-2016-1.jpg)
 
 # Plastic Soup Foundation
@@ -464,6 +470,7 @@ it to the top for a further four minutes.
 Paper packaging in the recycling and reuse the jars.
 
 ## Epic cheese sandwich
+
 ![](images/sandwich2.jpg)
 
 - Bread, Silo
