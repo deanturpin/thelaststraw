@@ -8,12 +8,9 @@ and environmental impact? Even official bags-for-life are unlikely to last for
 the duration of your lifetime as claimed. But a cotton bag will at least have a
 chance of decomposition when it has reached the end of its useful life.
 
-The answer can only be to not use plastic bags at all. See [this
-article](http://www.wsj.com/articles/SB122238422541876879) in the Wall Street
-Journal.
+The answer can only be to not use plastic bags at all.
 
-Various Twitter chat about plastic bags:
-
+## Various tweets about plastic bags
 __Waitrose__
 
 Dean Turbo @deanturbo  Jan 3 2016:

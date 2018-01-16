@@ -1,7 +1,7 @@
 # Every day ingredients
 
 ## Oil
-Coconut is a highly versatile oil for all cooking and I also use it daily
+Coconut is a highly versatile oil for all cooking and I also use it as a daily
 moisturiser. The 500g jars are a really useful size to reuse.
 
 ## Sugar
@@ -38,10 +38,9 @@ Check your current tea bags: how have they been sealed? Ideally we don't want
 heat sealed bags as they contain a small quantity of plastic to bond the two
 sides together. (We don't really want that in our tea either.)
 
-There's good choice to be had from [Pukka](images/tea_pukka.jpg),
-[Yogi](images/tea_yogi.jpg) and [Clipper](images/tea_clipper.jpg) but make sure
-the outside of the box isn't wrapped in plastic and some also have an inner
-plastic/foil packet (Twinnings).
+There's good choice to be had from [Pukka](images/tea_pukka.jpg), and
+[Clipper](images/tea_clipper.jpg) but make sure the outside of the box isn't
+wrapped in plastic and some also have an inner plastic/foil packet (Twinnings).
 
 ## Newspapers
 In the week newspapers are OK but inexplicably at the weekend the

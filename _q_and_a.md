@@ -1,5 +1,8 @@
 # Q&A
 
+Disclaimer: I do actually eat animals but I think it's important to challenge
+the arguments that justify it.
+
 ## Does zero waste matter if I don't have any children?
 It matters more if you have nobody to bequeath your plastic legacy.
 
@@ -41,10 +44,10 @@ Is it cuteness? Absolutely not. We eat tonnes of lamb but foxes go untouched.
 (Bar the sport.)
 
 ## Animals are there for us to eat
-For survival, perhaps. But we grow plants to mass produce animals. If they're
-ours to eat why stop at one level of indirection? Why not fell forests to grow
-soy to raise cattle to rear crocodiles and then eat the crocodiles? Perhaps
-soy-fed cow crocs are tastier than grass-fed cattle?
+For survival, perhaps. But we grow plants to feed mass produced animals. If
+they're ours to eat why stop at one level of indirection? Why not fell forests
+to grow soy to raise cattle to rear crocodiles and then eat the crocodiles?
+Perhaps soy-fed cow crocs are tastier than grass-fed cattle?
 
 Or we could just eat the soy and live perfectly healthy lives without killing
 anything.

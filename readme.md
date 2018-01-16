@@ -113,7 +113,7 @@ for Tossers](http://www.trashisfortossers.com/)/[Alchemy
 # Every day ingredients
 
 ## Oil
-Coconut is a highly versatile oil for all cooking and I also use it daily
+Coconut is a highly versatile oil for all cooking and I also use it as a daily
 moisturiser. The 500g jars are a really useful size to reuse.
 
 ## Sugar
@@ -150,10 +150,9 @@ Check your current tea bags: how have they been sealed? Ideally we don't want
 heat sealed bags as they contain a small quantity of plastic to bond the two
 sides together. (We don't really want that in our tea either.)
 
-There's good choice to be had from [Pukka](images/tea_pukka.jpg),
-[Yogi](images/tea_yogi.jpg) and [Clipper](images/tea_clipper.jpg) but make sure
-the outside of the box isn't wrapped in plastic and some also have an inner
-plastic/foil packet (Twinnings).
+There's good choice to be had from [Pukka](images/tea_pukka.jpg), and
+[Clipper](images/tea_clipper.jpg) but make sure the outside of the box isn't
+wrapped in plastic and some also have an inner plastic/foil packet (Twinnings).
 
 ## Newspapers
 In the week newspapers are OK but inexplicably at the weekend the
@@ -166,6 +165,7 @@ food/environment pullouts come in a plastic bag.
 * Small scale plastic processing kits: http://preciousplastic.com/
 * Plastic Soup Foundation: https://www.facebook.com/PlasticSoupFoundation
 * http://www.independent.co.uk/news/world/americas/plastic-rubbish-tide-caribbean-island-roatan-honduras-coast-pollution-a8017381.html
+* https://www.wsj.com/articles/SB122238422541876879
 
 ## Six month review
 (Inspired by Lauren Singer's zero waste jar.)
@@ -173,9 +173,9 @@ food/environment pullouts come in a plastic bag.
 What's the best way to assess your plastic usage? Keep all of it.
 
 Pledge to keep everything that is neither biodegradable nor recyclable in your
-area or office. A nice idea is to fill a jar and see how long it takes to fill
-it. It makes it all the more horrifying when you have to thrown it away in bulk,
-knowing that it's destined for the landfill.
+area or office. A nice idea is to fill a jar and see how long it takes you to to
+fill it. It makes it all the more horrifying when you have to thrown it away in
+bulk, knowing that it's destined for the landfill.
 
 It also makes you consider how much you want that bag of crisps knowing that the
 bag will be hanging around long after you've finished. Conveniently, processed
@@ -190,12 +190,9 @@ and environmental impact? Even official bags-for-life are unlikely to last for
 the duration of your lifetime as claimed. But a cotton bag will at least have a
 chance of decomposition when it has reached the end of its useful life.
 
-The answer can only be to not use plastic bags at all. See [this
-article](http://www.wsj.com/articles/SB122238422541876879) in the Wall Street
-Journal.
+The answer can only be to not use plastic bags at all.
 
-Various Twitter chat about plastic bags:
-
+## Various tweets about plastic bags
 __Waitrose__
 
 Dean Turbo @deanturbo  Jan 3 2016:
@@ -225,6 +222,9 @@ replace them free of charge if they become damaged."
 ## Alternative recycling companies
 * http://www.magpie.coop/services/greenbox
 # Q&A
+
+Disclaimer: I do actually eat animals but I think it's important to challenge
+the arguments that justify it.
 
 ## Does zero waste matter if I don't have any children?
 It matters more if you have nobody to bequeath your plastic legacy.
@@ -267,10 +267,10 @@ Is it cuteness? Absolutely not. We eat tonnes of lamb but foxes go untouched.
 (Bar the sport.)
 
 ## Animals are there for us to eat
-For survival, perhaps. But we grow plants to mass produce animals. If they're
-ours to eat why stop at one level of indirection? Why not fell forests to grow
-soy to raise cattle to rear crocodiles and then eat the crocodiles? Perhaps
-soy-fed cow crocs are tastier than grass-fed cattle?
+For survival, perhaps. But we grow plants to feed mass produced animals. If
+they're ours to eat why stop at one level of indirection? Why not fell forests
+to grow soy to raise cattle to rear crocodiles and then eat the crocodiles?
+Perhaps soy-fed cow crocs are tastier than grass-fed cattle?
 
 Or we could just eat the soy and live perfectly healthy lives without killing
 anything.
