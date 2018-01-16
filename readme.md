@@ -3,8 +3,8 @@ producer. The producer enjoys longer shelf-life and protection during shipping
 but the responsibility of disposing of the packaging is passed on to the
 consumer.
 
-Ask yourself: is this purchase important enough to justify packaging that will
-potentially be around for decades?
+Ask yourself: is this purchase important enough to justify packaging that could
+potentially be around for longer than I will?
 
 # The future of supermarkets
 
@@ -109,6 +109,7 @@ for Tossers](http://www.trashisfortossers.com/)/[Alchemy
 ## Foraging
 * Interest in mushrooms (although not confident enough to eat them yet)
 * Foraging easy wild ingredients (wild garlic)
+
 # Every day ingredients
 
 ## Oil
@@ -325,6 +326,7 @@ Magpie might collect them too.
 [Alpro and granaVita](images/soya_milk.jpg) have slightly fewer components: some
 of them have an extra plastic bung. [Bonsoy](images/bonsoy.jpg) has no plastic
 bits but it is twice the price.
+
 # Dining out
 
 ## Silo

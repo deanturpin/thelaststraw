@@ -21,3 +21,4 @@ for Tossers](http://www.trashisfortossers.com/)/[Alchemy
 ## Foraging
 * Interest in mushrooms (although not confident enough to eat them yet)
 * Foraging easy wild ingredients (wild garlic)
+

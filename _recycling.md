@@ -43,3 +43,4 @@ Magpie might collect them too.
 [Alpro and granaVita](images/soya_milk.jpg) have slightly fewer components: some
 of them have an extra plastic bung. [Bonsoy](images/bonsoy.jpg) has no plastic
 bits but it is twice the price.
+
