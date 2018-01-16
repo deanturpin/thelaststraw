@@ -14,9 +14,6 @@ either take your own jars or use their own paper bags.
 
 See also [The Food Shed](http://www.foodshedbrighton.com/dry-food.html).
 
-## Infinity Foods (vegetarian)
-Long-established vegetarian supermarket.
-
 ## Taj
 All major supermarkets pack their greens in plastic so they're out. However, Taj
 offer bundles of spinach with no packaging. They also sell lots of herbs and
