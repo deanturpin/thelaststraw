@@ -766,6 +766,10 @@ appear to be cheaper if you put them in a paper bag yourself.
 
 ![](images/waitrose_mushrooms.jpg)
 
+Remember to take your flask for the free coffee.
+
+![](images/waitrose_free_coffee.jpg)
+
 # Animal welfare and passive aggression (skip if not important to you)
 
 ## "We are evolved to eat meat"
