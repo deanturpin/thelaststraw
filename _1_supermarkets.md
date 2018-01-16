@@ -39,7 +39,7 @@ for bringing your own pot.
 ![](images/tea_bluebird2.jpg)
 
 ## La Cave à Fromage
-High end cheese shop. And the only one that gets it.
+Specialist cheese shop and very supportive of the cause.
 
 ![](images/cheese_lacave.jpg)
 

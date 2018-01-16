@@ -14,10 +14,13 @@ either take your own jars or use their own paper bags.
 
 See also [The Food Shed](http://www.foodshedbrighton.com/dry-food.html).
 
+## Infinity Foods (vegetarian)
+Long-established vegetarian supermarket.
+
 ## Taj
-All major supermarkets pack their greens in plastic so they're out. However, Taj
-offer bundles of spinach with no packaging. They also sell lots of herbs and
-spices that you often don't see loose.
+All major supermarkets pack their greens in plastic but Taj offer bundles of
+spinach with no packaging. They also sell lots of herbs and spices that you
+often don't see loose.
 
 ![](images/spinach_taj.jpg)
 ![](images/spring_onions.jpg)
@@ -36,7 +39,7 @@ for bringing your own pot.
 ![](images/tea_bluebird2.jpg)
 
 ## La Cave à Fromage
-High end cheese shop. And the only one that gets it.
+Specialist cheese shop and very supportive of the cause.
 
 ![](images/cheese_lacave.jpg)
 
