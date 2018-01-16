@@ -193,29 +193,19 @@ chance of decomposition when it has reached the end of its useful life.
 The answer can only be to not use plastic bags at all.
 
 ## Various tweets about plastic bags
-__Waitrose__
-
 Dean Turbo @deanturbo  Jan 3 2016:
-
 "@waitrose hi! Can beercan plastic rings go in with the plastic bag recycling?
 And are they sorted manually when they leave the store?"
 
 Waitrose @waitrose  Jan 3 2016:
-
 "@deanturbo I'm afraid not - only plastic bags and film displaying the OPRL logo
 can be recycled"
 
-On-Pack Recycling Label: http://www.oprl.org.uk/
-
-__Sainsbury's__
-
 Dean Turbo @deanturbo  Jan 12 2016:
-
 "@sainsburys Hi! Just noticed the 5p bags don't have the OPRL logo on them. Does
 this mean they can't be recycled in store?"
 
 Sainsbury's @sainsburys  Jan 12 2016:
-
 "@deanturbo Hi Dean, they're made of recycled material and are recyclable, we'll
 replace them free of charge if they become damaged." 
 
@@ -405,10 +395,10 @@ But it's really easy to [get involved](images/kimchi1.jpg).
 There's plenty of shop-bought kimchi in Brighton but very few in eco-friendly
 packaging. So why not make your own?
 
-- 100% red cabbage (loose, Infinity Foods)
-- 25% wild garlic (wild, The Downs)
-- 1.6% salt
-- 1% red chilli (loose, Taj)
+* 100% red cabbage (loose, Infinity Foods)
+* 25% wild garlic (wild, The Downs)
+* 1.6% salt
+* 1% red chilli (loose, Taj)
 
 Chop everything and mix in the salt. Crush with your hands to get the juices
 flowing (if it's a particularly tough cabbage you might need to use a pestle).
@@ -446,10 +436,6 @@ salt. Mush it between your fingers until mixed and quite liquid. Taste and then
 dd to a jar, almost to the brim, pop the lid on and leave in a dark cupboard for
 up to a week. You can put it in a fridge if you like but the acidity should stop
 anything untoward occurring.
-
-## Okraut
-A experiment to see how okra [behaves](images/okrachi3.jpg). The addition of
-okra makes it quite slippery so possibly not for everybody. But still.
 
 ## Beer and wine
 [Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of beer
