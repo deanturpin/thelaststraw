@@ -81,16 +81,6 @@ Loose fabric conditioner from hisBe:
 
 ![](images/fabric_conditioner.jpg)
 
-## Toilet paper
-
-Paper from FSC approved sources, plastic in the Waitrose carrier bag recycling.
-
-![](images/toiletroll_waitrose1.jpg)
-
-And more recently, toilet roll made from recycled paper.
-
-![](images/toiletroll_waitrose2.jpg)
-
 # Condiments
 
 ## Sugar
@@ -155,15 +145,6 @@ fussy - and we shall - they both feature an unnecessary plastic tab on the top.
 ![](images/oats_mornflake.jpg)
 
 # Dairy
-
-## Cheese
-Where can you buy cheese without any packaging? Tricky. La Cave à Fromage in
-Hove is the answer. They're very accommodating and let me use my own box for my
-delicious [Mayfield
-Swiss](https://www.cookipedia.co.uk/recipes_wiki/Mayfield_Swiss_cheese), a
-vegetarian mountain cheese made in Sussex.
-
-![](images/cheese_lacave.jpg)
 
 And here's some Labneh (curd/yoghurt) in a reusable jar from Taj.
 
@@ -618,17 +599,6 @@ So many loose products that you can only buy in hisBe.
 ## Infinity Foods (vegetarian)
 Long-established vegetarian supermarket.
 
-# Restaurants
-
-## Silo
-Zero-waste restaurant/cafe/coffee. Not vegetarian but increasingly
-plant-focused. Notably their in-house composter (which actually lives in the
-restaurant) has such an appetite that they also take in waste from the
-surrounding businesses.
-
-## Burger Brothers
-Burger specialists and they use reassuringly biodegradable boxes.
-
 # Sport
 
 ## Energy gels
@@ -651,11 +621,6 @@ Pop some loose apricots from Taj in your jersey.
 ![](images/apricots_taj.jpg)
 
 # Tea, please...
-A goodly selection of loose tea and tea-supping accoutrements from Bluebird Tea Co. and 10% discount for bringing your own pot.
-
-![](images/tea_bluebird.jpg)
-![](images/tea_bluebird2.jpg)
-
 Heath and Heather offer tea without the unnecessary paper pouches.
 
 ![](images/tea_heathandheather.jpg)
@@ -691,38 +656,6 @@ A nice bit of lemongrass from Taj.
 You can repurpose the bands or make an awesome rubber band ball!
 
 ![](images/rubberband_ball.jpg)
-
-## Sandwich greens
-All major supermarkets pack their greens in plastic so they're out. However, Taj
-do bundles of spinach with no packaging; we just need to juice the stems, compost the
-roots and put the rubber bands to good use.
-
-![](images/spinach_taj.jpg)
-![](images/spinach_taj2.jpg)
-
-Proper spring onions from Taj!
-
-![](images/spring_onions.jpg)
-
-# Zero-waste-shops
-
-Places that encourage no packaging:
-
-* [The Food Shed](http://www.foodshedbrighton.com/dry-food.html)
-* hisBe
-* Taj
-* Infinity Foods
-
-# Waitrose
-
-Quite a nice illustration of the craziness of packaging! The same mushrooms
-appear to be cheaper if you put them in a paper bag yourself.
-
-![](images/waitrose_mushrooms.jpg)
-
-Remember to take your flask for the free coffee.
-
-![](images/waitrose_free_coffee.jpg)
 
 # Animal welfare and passive aggression (skip if not important to you)
 
@@ -775,7 +708,70 @@ It matters more if you have nobody to bequeath your plastic legacy.
 
 Glass jars are good!
 
-![](images/glass_jars.jpg not referenced)
+![](images/glass_jars.jpg)
 
-Bamboo socks.
-![](images/socks.jpg not referenced)
+# Shops that actively encourage no packaging
+
+## Infinity Foods
+Firmly established vegetarian shop and organic advocate.
+
+## hisBe (how it Should be)
+The go-to place for package free shopping. A large choice of produce in hoppers,
+either take your own jars or use their own paper bags.
+
+See also [The Food Shed](http://www.foodshedbrighton.com/dry-food.html).
+
+## Taj
+### Sandwich greens
+All major supermarkets pack their greens in plastic so they're out. However, Taj
+do bundles of spinach with no packaging; we just need to juice the stems,
+  compost the roots and put the rubber bands to good use.
+
+![](images/spinach_taj.jpg)
+![](images/spinach_taj2.jpg)
+![](images/spring_onions.jpg)
+
+## Bluebird Tea Company
+A fantastic selection of loose tea and tea-supping accoutrements. 10% discount
+for bringing your own pot.
+
+![](images/tea_bluebird.jpg)
+![](images/tea_bluebird2.jpg)
+
+## La Cave à Fromage
+High end cheese shop. And the only one that gets it.
+![](images/cheese_lacave.jpg)
+
+# Mainstream supermarkets
+
+## Waitrose (Western Road)
+Remember to take your flask for the free coffee.
+![](images/waitrose_free_coffee.jpg)
+
+Quite a nice illustration of the craziness of packaging! The same mushrooms
+appear to be cheaper if you put them in a paper bag yourself.
+![](images/waitrose_mushrooms.jpg)
+
+Paper from FSC approved sources, the wrapper can go in the in-store bag
+recycling.
+![](images/toiletroll_waitrose1.jpg)
+
+## Sainsbury's (near Waitrose)
+
+# Clothes
+
+## TK Maxx
+Bamboo socks in card packaging.
+![](images/socks.jpg)
+
+# Dining out
+
+## Silo
+Zero-waste restaurant/cafe/coffee. Not vegetarian but increasingly
+plant-focused. Their in-house composter (which actually lives in the restaurant)
+has such an appetite that they also take in waste from the surrounding
+businesses.
+
+## Burger Brothers
+Burger specialists and they use reassuringly biodegradable boxes.
+
