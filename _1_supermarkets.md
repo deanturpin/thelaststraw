@@ -70,12 +70,10 @@ apparently from "FSC approved sources" and the wrapper can be returned to the
 in-store bag recycling box.
 
 ## The Food Shed
-Another zero waste warrior! Lots of loose products available and a 10% discount
-for using your own container.
-
-http://www.foodshedbrighton.com/dry-food.html
+Another zero waste warrior Brighton Open Market. Lots of loose products
+available and a 10% discount for using your own containers.
 
 ## TK Maxx
 TK is quite a good place to pick up [items](images/socks.jpg) with minimal
-packaging. Although you do feel a bit shop lifty walking out with an unbagged
+packaging. Although you do feel a bit "shop lifty" walking out with an unbagged
 jacket. I guess it just takes time.
