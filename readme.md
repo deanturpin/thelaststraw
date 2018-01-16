@@ -19,11 +19,10 @@ unpackaged soap bars.
 
 Of particular note are ingredients such as [dry
 coconut](images/coconut_hisbe.jpg), [cacao nibs](images/nibs_hisbe.jpg), olive
-oil, [goji berries](images/goji_hisbe.jpg)o and ![plain, milk and chocolate
+oil, [goji berries](images/goji_hisbe.jpg) and plain/milk/white [chocolate
 buttons](images/chocolate_hisbe.jpg) They're only £10/Kg too, whereas Waitrose
-is at £15-20/Kg for a 100g bar of Green and Blacks. And you have to do something
-with the packaging.
-
+charges £15-20/Kg for a 100g bar of Green and Blacks. And you have to do
+something with the packaging.
 
 ## Taj
 All major supermarkets pack their greens in plastic but Taj offer bundles of
