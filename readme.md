@@ -3,6 +3,9 @@ producer. The producer enjoys longer shelf-life and protection during shipping
 but the responsibility of disposing of the packaging is passed on to the
 consumer.
 
+Ask yourself: is this purchase important enough to justify packaging that will
+potentially be around for decades?
+
 # The future of supermarkets
 
 And, ironically, how it use to be.
@@ -532,6 +535,12 @@ Paper packaging in the recycling and reuse the jars.
 
 ![](images/sandwich1.jpg)
 ![](images/spinach_roots.jpg)
+
+## Drying fruit
+Drying is really good way to extend the life of fruit. Apples work particularly
+well: slice to 2mm with the skin on - cookers and eaters - spread out on
+greaseproof on as many trays as you can get in the oven and bake for roughly
+three hours at 110C. Check every hour.
 # Recycling and upcycling
 
 ## Bottle-cutting

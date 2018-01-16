@@ -3,6 +3,9 @@ producer. The producer enjoys longer shelf-life and protection during shipping
 but the responsibility of disposing of the packaging is passed on to the
 consumer.
 
+Ask yourself: is this purchase important enough to justify packaging that will
+potentially be around for decades?
+
 # The future of supermarkets
 
 And, ironically, how it use to be.

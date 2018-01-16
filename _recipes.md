@@ -53,3 +53,9 @@ Paper packaging in the recycling and reuse the jars.
 
 ![](images/sandwich1.jpg)
 ![](images/spinach_roots.jpg)
+
+## Drying fruit
+Drying is really good way to extend the life of fruit. Apples work particularly
+well: slice to 2mm with the skin on - cookers and eaters - spread out on
+greaseproof on as many trays as you can get in the oven and bake for roughly
+three hours at 110C. Check every hour.
