@@ -17,7 +17,13 @@ either take your own jars or use their paper bags. They also sell a selection of
 "loose" cleaning products: washing up liquid, fabric conditioner etc., and
 unpackaged soap bars.
 
-See also [The Food Shed](http://www.foodshedbrighton.com/dry-food.html).
+Of particular note are ingredients such as [dry
+coconut](images/coconut_hisbe.jpg), [cacao nibs](images/nibs_hisbe.jpg), olive
+oil, [goji berries](images/goji_hisbe.jpg)o and ![plain, milk and chocolate
+buttons](images/chocolate_hisbe.jpg) They're only £10/Kg too, whereas Waitrose
+is at £15-20/Kg for a 100g bar of Green and Blacks. And you have to do something
+with the packaging.
+
 
 ## Taj
 All major supermarkets pack their greens in plastic but Taj offer bundles of
@@ -26,8 +32,12 @@ can repurpose the rubber bands from the spinach or make an awesome [rubber band
 ball](images/rubberband_ball.jpg).) In fact they sell lots of herbs and
 [spices](images/lemongrass_taj.jpg) that you often don't see loose. They also
 offer an interesting cheese alternative in a reusable jar: labneh. It's a
-beautifully sour strained yoghurt that you can spread on your toast. And their
-Vatika soap bars come in a card box (no inner plastic bag).
+beautifully sour strained yoghurt that you can spread on your toast. Taj has
+[loose apricots](images/apricots_taj.jpg) - rare source of loose dry fruit - and
+their Vatika soap bars come in a card box (no inner plastic bag).
+
+Taj hack: they don't offer paper bags unless you're buying a takeaway curry. But
+the bread section has paper baguette bags hanging up so use them!
 
 ## Bluebird Tea Company
 A fantastic selection of loose tea and tea-supping accoutrements. 10% discount
@@ -46,7 +56,10 @@ Quite a nice illustration of the craziness of packaging: you can buy essential
 white mushrooms prepackaged or loose. But the loose ones [work out
 cheaper](images/waitrose_mushrooms.jpg)! So we're paying for the convenience of
 not having to touch individual mushrooms. Similarly loose and plastic-wrapped
-peppers are offered [side-by-side](images/peppers_waitrose.jpg).
+peppers are offered [side-by-side](images/peppers_waitrose.jpg). We must always
+choose the loose one. Often this means can't have exactly what you went in for
+but the sooner we stop buying products *because* of the packaging the sooner
+change will happen.
 
 The paper bags can of course also be used instead of the plastic and gel panel
 bags found throughout the store (notably the bread section).
@@ -54,6 +67,12 @@ bags found throughout the store (notably the bread section).
 The own-brand bulk-by [toilet paper](images/toiletroll_waitrose1.jpg) is
 apparently from "FSC approved sources" and the wrapper can be returned to the
 in-store bag recycling box.
+
+## The Food Shed
+Another zero waste warrior! Lots of loose products available and a 10% discount
+for using your own container.
+
+http://www.foodshedbrighton.com/dry-food.html
 
 ## TK Maxx
 TK is quite a good place to pick up [items](images/socks.jpg) with minimal

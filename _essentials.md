@@ -15,7 +15,8 @@ Or just for kicks why not try coconut sugar?
 ![](images/coconut_sugar.jpg)
 
 ## Salt
-hisBe have pulled out the stops and are now enabling us to buy salt without also buying bits of plastic to pour it with.
+hisBe have pulled out the stops and are now enabling us to buy salt without also
+buying bits of plastic to pour it with.
 
 ![](images/salt_hisbe.jpg)
 
@@ -42,25 +43,14 @@ A great selection of Payne's honey from Taj.
 ![](images/honey_paynes.jpg)
 
 ## Oats
+hisBe's [loose oats](images/oats_hisbe.jpg) are very reasonably priced and of
+course you can take your own vessel.
+
 The first oats I found that didn't come in a plastic bag or a box with a plastic
-panel. They even suggest you compost the packet. Love Pimhill Farm!
-
-![](images/oats_pimhill.jpg)
-
-Loose oats from hisBe are very reasonably priced and you can take your own
-vessel.
-
-![](images/oats_hisbe.jpg)
-
-I'm very fond of Wessex Mill's bread flour and just spotted their oats in Taj.
-
-![](images/oats_wessexmill.jpg)
-
-And a couple from Waitrose in paper packaging. However, if we're going to be
-fussy - and we shall - they both feature an unnecessary plastic tab on the top.
-
-![](images/oats_flahavans.jpg)
-![](images/oats_mornflake.jpg)
+panel were from [Pimhill Farm](images/oats_pimhill.jpg). But you can also try
+[Wessex Mill](images/oats_wessexmill.jpg) who make great flour. There are a
+couple of *mostly* plastic free options but look out for the tape seal at the
+top of the packet.
 
 ## Fresh fruit
 Why would you buy a net of tiny lemons from a supermarket when you could have
@@ -86,54 +76,15 @@ choice of carbon footprint: Argentina, Chile or New Zealand.
 
 ![](images/apples2_waitrose.jpg)
 
-## Dried fruit
-A lot of things can only be found in hisBe.
-
-Deydrated coconut
-
-![](images/coconut_hisbe.jpg)
-
-Cacao nibs
-
-![](images/nibs_hisbe.jpg)
-
-Loose plain, milk and white chocolate buttons. They're only £10/Kg too, whereas
-Waitrose is at £15-20/Kg for a 100g bar of Green and Blacks. And you have to do
-something with the packaging.
-
-![](images/chocolate_hisbe.jpg)
-
-Dried goji berries.
-
-![](images/goji_hisbe.jpg)
-
-Loose apricots from Taj.
-
-![](images/apricots_taj.jpg)
-
-Taj hack: they don't offer paper bags apart from for the takeaway curries and
-the baguettes. So go and use them!
-
 ## Tea
-Heath and Heather offer tea without the unnecessary paper pouches.
+Check your current tea bags: how have they been sealed? Ideally we don't want
+heat sealed bags as they contain a small quantity of plastic to bond the two
+sides together. (We don't really want that in our tea either.)
 
-![](images/tea_heathandheather.jpg)
-
-Failing that, Pukka do tea in wholly recyclable paper packaging.
-
-![](images/tea_pukka.jpg)
-
-As do Yogi. But be careful as I have seen some in plastic wrap!
-
-![](images/tea_yogi.jpg)
-
-And Clipper.
-
-![](images/tea_clipper.jpg)
-
-As an aside: all three look like they're tied shut. But the Heath and Heather
-also appear to be thermally sealed suggesting a small quantity of plastic in the
-paper mix.
+There's good choice to be had from [Pukka](images/tea_pukka.jpg),
+[Yogi](images/tea_yogi.jpg) and [Clipper](images/tea_clipper.jpg) but make sure
+the outside of the box isn't wrapped in plastic and some also have an inner
+plastic/foil packet (Twinnings).
 
 ## Newspapers
 In the week newspapers are OK but inexplicably at the weekend the
