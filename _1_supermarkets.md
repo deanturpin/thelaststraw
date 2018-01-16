@@ -65,9 +65,9 @@ white mushrooms prepackaged or loose. But the loose ones [work out
 cheaper](images/waitrose_mushrooms.jpg)! So we're paying for the convenience of
 not having to touch individual mushrooms? Similarly loose and plastic-wrapped
 peppers are offered [side-by-side](images/peppers_waitrose.jpg) but we must
-always choose the loose one. Often this means can't have exactly what you went
-in for but the sooner we stop buying products *because* of the packaging the
-sooner change will happen.
+always choose the loose one. Often this means you can't have exactly what you
+went in for but the sooner we stop buying products *because* of the packaging
+the sooner change will happen.
 
 The paper bags can of course also be used instead of the plastic and gel panel
 bags found throughout the store (notably the bread section).
