@@ -4,6 +4,71 @@ What appears to be convenience for the shopper could actually be deft slight of
 hand by the mass producer. The producer enjoys longer shelf-life and protection
 during shipping and disposing of the packaging is passed on to the consumer.
 
+# Businesses that actively encourage no packaging
+
+## Infinity Foods
+Firmly established vegetarian shop and organic advocate.
+
+## hisBe (how it Should be)
+The go-to place for package free shopping. A large choice of produce in hoppers,
+either take your own jars or use their own paper bags.
+
+See also [The Food Shed](http://www.foodshedbrighton.com/dry-food.html).
+
+## Taj
+### Sandwich greens
+All major supermarkets pack their greens in plastic so they're out. However, Taj
+do bundles of spinach with no packaging; we just need to juice the stems,
+  compost the roots and put the rubber bands to good use.
+
+![](images/spinach_taj.jpg)
+![](images/spinach_taj2.jpg)
+![](images/spring_onions.jpg)
+
+## Bluebird Tea Company
+A fantastic selection of loose tea and tea-supping accoutrements. 10% discount
+for bringing your own pot.
+
+![](images/tea_bluebird.jpg)
+![](images/tea_bluebird2.jpg)
+
+## La Cave à Fromage
+High end cheese shop. And the only one that gets it.
+![](images/cheese_lacave.jpg)
+
+# Mainstream supermarkets
+
+## Waitrose (Western Road)
+Remember to take your flask for the free coffee.
+![](images/waitrose_free_coffee.jpg)
+
+Quite a nice illustration of the craziness of packaging! The same mushrooms
+appear to be cheaper if you put them in a paper bag yourself.
+![](images/waitrose_mushrooms.jpg)
+
+Paper from FSC approved sources, the wrapper can go in the in-store bag
+recycling.
+![](images/toiletroll_waitrose1.jpg)
+
+## Sainsbury's (near Waitrose)
+
+# Clothes
+
+## TK Maxx
+Bamboo socks in card packaging.
+![](images/socks.jpg)
+
+# Dining out
+
+## Silo
+Zero-waste restaurant/cafe/coffee. Not vegetarian but increasingly
+plant-focused. Their in-house composter (which actually lives in the restaurant)
+has such an appetite that they also take in waste from the surrounding
+businesses.
+
+## Burger Brothers
+Burger specialists and they use reassuringly biodegradable boxes.
+
 # Bread
 
 Shop bought bread can really only come from a proper baker. In this case it's
@@ -32,31 +97,6 @@ Deft lame work from Silo.
 Plant pots made with a Kinkajou bottle cutter.
 
 ![](images/kinkajou-plantpot.jpg)
-
-# Changes
-
-Changes I've made since meeting [Silo](http://www.silobrighton.com/)/[Trash is
-for Tossers](http://www.trashisfortossers.com/)/[Alchemy
-  Flow](https://www.facebook.com/AlchemyandFlow/) in 2014:
-
-## Homemade food/drink
-* Bread
-* Kimchi/sauerkraut
-* Milk kefir
-* Soft cheese
-* Home brew beer and wine
-
-## Packaging
-
-* Upcycled glasses by bottle cutting ([Kinkajou](http://www.bottlecutting.com/))
-* Buying loose where possible ([hisBe](http://hisbe.co.uk/))
-* Refusing products with non-recyclable packaging
-* Stopped buying energy gels/sports supplements
-* Kept a zero waste pot at work
-
-## Foraging
-* Interest in mushrooms (not confident enough to eat them yet)
-* Gathering easy plants (herbs, wild garlic)
 
 # Cleaning
 
@@ -620,6 +660,31 @@ You can repurpose the bands or make an awesome rubber band ball!
 
 ![](images/rubberband_ball.jpg)
 
+# Changes
+
+Changes I've made since meeting [Silo](http://www.silobrighton.com/)/[Trash is
+for Tossers](http://www.trashisfortossers.com/)/[Alchemy
+  Flow](https://www.facebook.com/AlchemyandFlow/) in 2014:
+
+## Homemade food/drink
+* Bread
+* Kimchi/sauerkraut
+* Milk kefir
+* Soft cheese
+* Home brew beer and wine
+
+## Packaging
+
+* Upcycled glasses by bottle cutting ([Kinkajou](http://www.bottlecutting.com/))
+* Buying loose where possible ([hisBe](http://hisbe.co.uk/))
+* Refusing products with non-recyclable packaging
+* Stopped buying energy gels/sports supplements
+* Keep a zero waste pot at work
+
+## Foraging
+* Interest in mushrooms (not confident enough to eat them yet)
+* Gathering easy plants (herbs, wild garlic)
+
 # Animal welfare and passive aggression (skip if not important to you)
 
 ## "We are evolved to eat meat"
@@ -672,69 +737,4 @@ It matters more if you have nobody to bequeath your plastic legacy.
 Glass jars are good!
 
 ![](images/glass_jars.jpg)
-
-# Shops that actively encourage no packaging
-
-## Infinity Foods
-Firmly established vegetarian shop and organic advocate.
-
-## hisBe (how it Should be)
-The go-to place for package free shopping. A large choice of produce in hoppers,
-either take your own jars or use their own paper bags.
-
-See also [The Food Shed](http://www.foodshedbrighton.com/dry-food.html).
-
-## Taj
-### Sandwich greens
-All major supermarkets pack their greens in plastic so they're out. However, Taj
-do bundles of spinach with no packaging; we just need to juice the stems,
-  compost the roots and put the rubber bands to good use.
-
-![](images/spinach_taj.jpg)
-![](images/spinach_taj2.jpg)
-![](images/spring_onions.jpg)
-
-## Bluebird Tea Company
-A fantastic selection of loose tea and tea-supping accoutrements. 10% discount
-for bringing your own pot.
-
-![](images/tea_bluebird.jpg)
-![](images/tea_bluebird2.jpg)
-
-## La Cave à Fromage
-High end cheese shop. And the only one that gets it.
-![](images/cheese_lacave.jpg)
-
-# Mainstream supermarkets
-
-## Waitrose (Western Road)
-Remember to take your flask for the free coffee.
-![](images/waitrose_free_coffee.jpg)
-
-Quite a nice illustration of the craziness of packaging! The same mushrooms
-appear to be cheaper if you put them in a paper bag yourself.
-![](images/waitrose_mushrooms.jpg)
-
-Paper from FSC approved sources, the wrapper can go in the in-store bag
-recycling.
-![](images/toiletroll_waitrose1.jpg)
-
-## Sainsbury's (near Waitrose)
-
-# Clothes
-
-## TK Maxx
-Bamboo socks in card packaging.
-![](images/socks.jpg)
-
-# Dining out
-
-## Silo
-Zero-waste restaurant/cafe/coffee. Not vegetarian but increasingly
-plant-focused. Their in-house composter (which actually lives in the restaurant)
-has such an appetite that they also take in waste from the surrounding
-businesses.
-
-## Burger Brothers
-Burger specialists and they use reassuringly biodegradable boxes.
 
