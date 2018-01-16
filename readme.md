@@ -1,26 +1,25 @@
 # Give me convenience...
 
 What appears to be convenience for the shopper could actually be deft slight of
-hand by the mass producer. The producer enjoy prolonged shelf-life and
-protection whilst shipping and disposing of the packaging is passed on to the
-consumer.
+hand by the mass producer. The producer enjoys longer shelf-life and protection
+during shipping and disposing of the packaging is passed on to the consumer.
 
 # Bread
 
 Shop bought bread can really only come from a proper baker. In this case it's
-chewy white from Real Pâtisserie. You can get Real Pâtisserie bread from Taj but
-it mostly comes in perforated plastic bags. At a push you could buy buns from
-Waitrose and put them in the plain paper bags from the mushroom section rather
-than those with the plastic panel.
+chewy white from Real Pâtisserie.
 
 ![](images/bread_real_patisserie.jpg)
 
-Apart from baguettes! You can also use the spare paper bags for other groceries rather
-than the plastic ones.
+You can also buy Real Pâtisserie bread from Taj but it mostly comes in
+perforated plastic bags. But the baguettes come in paper!
+
+At a push you could buy buns from Waitrose and put them in the plain paper bags
+from the mushroom section rather than those with the plastic panel.
 
 ![](images/baguettes.jpg)
 
-Cracking sea salt and rosemary sourdough from hisBe. Wow! 
+Cracking sea salt and rosemary sourdough from hisBe.
 
 ![](images/bread_hisbe.jpg)
 
@@ -36,18 +35,18 @@ Plant pots made with a Kinkajou bottle cutter.
 
 # Changes
 
-Changes we've made since meeting [Silo](http://www.silobrighton.com/)/[Trash is for
-Tossers](http://www.trashisfortossers.com/)/[Alchemy
-Flow](https://www.facebook.com/AlchemyandFlow/):
+Changes I've made since meeting [Silo](http://www.silobrighton.com/)/[Trash is
+for Tossers](http://www.trashisfortossers.com/)/[Alchemy
+  Flow](https://www.facebook.com/AlchemyandFlow/) in 2014:
 
-# Homemade food/drink
+## Homemade food/drink
 * Bread
 * Kimchi/sauerkraut
 * Milk kefir
 * Soft cheese
 * Home brew beer and wine
 
-# Packaging
+## Packaging
 
 * Upcycled glasses by bottle cutting ([Kinkajou](http://www.bottlecutting.com/))
 * Buying loose where possible ([hisBe](http://hisbe.co.uk/))
@@ -55,8 +54,8 @@ Flow](https://www.facebook.com/AlchemyandFlow/):
 * Stopped buying energy gels/sports supplements
 * Kept a zero waste pot at work
 
-# Foraging
-* Interest in mushrooms (too soon to pick)
+## Foraging
+* Interest in mushrooms (not confident enough to eat them yet)
 * Gathering easy plants (herbs, wild garlic)
 
 # Cleaning
@@ -150,7 +149,7 @@ I'm very fond of Wessex Mill's bread flour and just spotted their oats in Taj.
 ![](images/oats_wessexmill.jpg)
 
 And a couple from Waitrose in paper packaging. However, if we're going to be
-fussy&mdash;and we shall&mdash;they both feature an unnecessary plastic tab on the top.
+fussy - and we shall - they both feature an unnecessary plastic tab on the top.
 
 ![](images/oats_flahavans.jpg)
 ![](images/oats_mornflake.jpg)
@@ -162,7 +161,7 @@ Where can you buy cheese without any packaging? Tricky. La Cave à Fromage in
 Hove is the answer. They're very accommodating and let me use my own box for my
 delicious [Mayfield
 Swiss](https://www.cookipedia.co.uk/recipes_wiki/Mayfield_Swiss_cheese), a
-vegetarian mountain cheese made in Sussex. 
+vegetarian mountain cheese made in Sussex.
 
 ![](images/cheese_lacave.jpg)
 
@@ -246,19 +245,12 @@ still.
 ![](images/okrachi3.jpg)
 
 # Beer and wine
-[Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of
-beer affectionately known as "growlers" from their shop on East Street. If
-purchasing beer from a supermarket then don't choose those with six-pack rings.
-Ten packs come in a cardboard box with no plastic. Or go to the pub. Or brew
-your own!
-
-# Bottle cleaning
-Use an abrasive like old rice and a few drops of washing up liquid.
-
-See mowerdog's [video](https://www.youtube.com/watch?v=HzPQDWTMAVQ).
+[Bison Brewery](http://bisonbeer.co.uk/) sell large refillable bottles of beer
+affectionately known as "growlers" from their shop on East Street. If purchasing
+tins of beer then don't choose those with six-pack rings. Ten packs come in a
+cardboard box with no plastic. Or go to the pub. Or brew your own!
 
 # Fruit
-
 ## Fresh fruit
 Why would you buy a net of tiny lemons from a supermarket when you could have
 these beauties?
@@ -337,12 +329,13 @@ The veggie ready meal section in Waitrose. Without exception each has a plastic 
 ![](images/readymeal_waitrose.jpg)
 
 Interestingly the frozen section has plenty of choice in simply packaged
-products. We like the plastic panel on fresh products?
+products. We prefer a plastic panel on our fresh stuff?
 
 ![](images/frozen-versus-fresh-products.jpg)
 
 # Newspapers
-In the week newspapers are generally OK but at the weekend the food/environment pullouts must come in a plastic bag for convenience.
+In the week newspapers are OK but inexplicably at the weekend the
+food/environment pullouts come in a plastic bag.
 
 # Precious Plastic
 Small scale plastic processing kits. The future!
@@ -364,7 +357,7 @@ Bottle](https://www.banthebottle.net/bottled-water-facts/). And see how
 [Southern Water](https://www.southernwater.co.uk/water-treatment) treat what
 comes out of our taps.
 
-# I remember when everything around here was sealed in small claustrophobic boxes
+## I remember when everything around here was sealed in small claustrophobic boxes
 Before long all you see is plastic. Equal-portioned high-carbon footprint
 produce condemned to a petrochemical tomb. As nature intended.
 
