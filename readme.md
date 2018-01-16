@@ -1,8 +1,6 @@
-# Give me convenience...
-
-What appears to be convenience for the shopper could actually be deft slight of
-hand by the mass producer. The producer enjoys longer shelf-life and protection
-during shipping and disposing of the packaging is passed on to the consumer.
+What appears to be convenience for the shopper is really slight of hand by the
+mass producer. The producer enjoys longer shelf-life and protection during
+shipping and disposing of the packaging is passed on to the consumer.
 
 # Businesses that actively encourage no packaging
 
