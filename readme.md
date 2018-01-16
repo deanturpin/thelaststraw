@@ -63,7 +63,7 @@ Flow](https://www.facebook.com/AlchemyandFlow/):
 
 ## Toothbrushes
 
-A few biodegradable toothbrushes have started to appear.
+There are a few biodegradable options for toothbrushes.
 
 https://www.brushwithbamboo.com/
 
