@@ -284,26 +284,6 @@ Loose apricots from Taj.
 Taj hack: they don't offer paper bags apart from for the takeaway curries and
 the baguettes. So go and use them!
 
-# Marinade
-* Ginger
-* Garlic
-* Rice wine vinegar
-* Sésame oil
-
-* Lemon
-* Garlic
-* Chilli
-* Parsley
-* Oregano
-* Cayenne pepper
-* Sherry vinegar
-* Truffle oil
-
-* Bay
-* Salt
-* Olive oil
-* Roasted paprika
-
 # Ready meals
 The veggie ready meal section in Waitrose. Without exception each has a plastic tray or panel.
 
@@ -317,11 +297,6 @@ products. We prefer a plastic panel on our fresh stuff?
 # Newspapers
 In the week newspapers are OK but inexplicably at the weekend the
 food/environment pullouts come in a plastic bag.
-
-# Precious Plastic
-Small scale plastic processing kits. The future!
-
-http://preciousplastic.com/
 
 # Water
 We're fortunate enough to have a good supply in Brighton so it's difficult to
@@ -344,14 +319,11 @@ produce condemned to a petrochemical tomb. As nature intended.
 
 ![](images/plastic_waitrose.jpg)
 
-# Trash is for tossers
-Great dinner and chat with zero waste luminaries Douglas McMaster (Silo
-Brighton), Tom Griffiths (Flank) and Lauren Singer.
-
-![](images/rhubarb_silo.jpg)
-
-- http://www.trashisfortossers.com/
-- http://www.silobrighton.com/
+# Inspiration
+* Zero waste superstar Lauren Singer: http://www.trashisfortossers.com/
+* The zero waste restaurant, the only things that leave are diners and compost:
+  http://www.silobrighton.com/
+* Small scale plastic processing kits: http://preciousplastic.com/
 
 # Articles
 * http://www.independent.co.uk/news/world/americas/plastic-rubbish-tide-caribbean-island-roatan-honduras-coast-pollution-a8017381.html
@@ -418,30 +390,19 @@ comes in plastic so it makes it quite easy to avoid.
 
 Image by [Plastic Soup Foundation](https://www.facebook.com/PlasticSoupFoundation/).
 
-# Granola
-I've been thinking about this granola for a while and finally found some dried
-fruit that doesn't come in a plastic bag. It's basically 300g of oats and then
-60g of anything else you have to hand.
+# Recipes
+## Granola
+I've been thinking about this granola for a while. It's quite hard to buy dried
+fruit without also buying a plastic bag.
 
 ![](images/granola.jpg)
 
-__From hiSbe Food CIC (loose):__
-
-- 300g large oats
-- 60g cacao nibs
-- 60g dried goji berries
-
-__From Waitrose:__
-
-- 60g Silverspoon UK-grown caster sugar (paper bag)
-
-__From Adam the apiarist - Surrey Honey (glass jar):__
-
-- 60g Surrey honey
-
-__From Taj (glass jar)__
-
-- 60g coconut oil
+* 300g large oats
+* 60g cacao nibs
+* 60g dried goji berries
+* 60g Silverspoon UK-grown caster sugar (paper bag)
+* 60g Surrey honey
+* 60g coconut oil
 
 Combine everything bar the berries (lest they burn), spread on a tray and cook
 at 200C for 8 minutes until brown (give it a stir around halfway through). I
@@ -462,8 +423,10 @@ Starting with 300g of oats makes one baking tray's worth. I tend to do two at
 once, the lower one stays in for the first eight minutes, stir and then I bring
 it to the top for a further four minutes.
 
-# Epic cheese sandwich
+### Waste
+Paper packaging in the recycling and reuse the jars.
 
+## Epic cheese sandwich
 ![](images/sandwich2.jpg)
 
 - Bread, Silo
@@ -472,7 +435,7 @@ it to the top for a further four minutes.
 - Tomatoes, The Open Market
 - Harissa and mayonnaise in glass jars (no plastic seal), Waitrose
 
-## Waste
+### Waste
 - Two paper bags to recycle/reuse 
 - Two rubber bands to repurpose
 - Stalks in the Nutribullet
