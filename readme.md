@@ -5,12 +5,14 @@ shipping and disposing of the packaging is passed on to the consumer.
 ## Infinity Foods
 Firmly established vegetarian shop and organic advocate. Almost all of their veg
 is loose and they also have an excellent in-house bakery. They also sell
-[biodegradable toothbrushes](https://www.brushwithbamboo.com/) and
-[d2w](http://d2w.net) bin bags.
+biodegradable [toothbrushes](https://www.brushwithbamboo.com/) and
+[bin bags](http://d2w.net).
 
 ## hiSbe Food CIC (how it Should be)
-The go-to place for package free shopping. A large choice of produce in hoppers,
-either take your own jars or use their own paper bags.
+The go-to place for package-free shopping. A large choice of produce in hoppers,
+either take your own jars or use their paper bags. They also sell a selection of
+"loose" cleaning products: washing up liquid, fabric conditioner etc., and
+unpackaged soap bars.
 
 See also [The Food Shed](http://www.foodshedbrighton.com/dry-food.html).
 
@@ -31,21 +33,17 @@ band ball.
 
 ![](images/rubberband_ball.jpg)
 
+They sell an interesting cheese alternative in a reusable jar: labneh. It's a
+beautifully sour strained yoghurt that you can spread on your toast.
+
+They also Vatika soap bars which come in a card box.
+
 ## Bluebird Tea Company
 A fantastic selection of loose tea and tea-supping accoutrements. 10% discount
-for bringing your own pot.
-
-![](images/tea_bluebird.jpg)
-![](images/tea_bluebird2.jpg)
+for bringing your own pot. Smells great in there.
 
 ## La Cave à Fromage
 Specialist cheese shop and very supportive of the cause.
-
-![](images/cheese_lacave.jpg)
-
-It's also worth considering Labneh (curd/yoghurt) in a reusable jar from Taj.
-
-![](images/labneh_taj.jpg)
 
 # Mainstream supermarkets
 
@@ -55,7 +53,9 @@ Remember to take your flask for the free coffee.
 ![](images/waitrose_free_coffee.jpg)
 
 Quite a nice illustration of the craziness of packaging! The same mushrooms
-appear to be cheaper if you put them in a paper bag yourself.
+appear to be cheaper if you put them in a paper bag yourself. The paper bags can
+of course also be used instead of the plastic and gel panel bags found through
+the store.
 
 ![](images/waitrose_mushrooms.jpg)
 
@@ -80,9 +80,6 @@ chewy white from Real Pâtisserie.
 
 You can also buy Real Pâtisserie bread from Taj but it mostly comes in
 perforated plastic bags. Apart from the baguettes!
-
-At a push you could buy buns from Waitrose and put them in the plain paper bags
-from the mushroom section rather than those with the plastic panel.
 
 ![](images/baguettes.jpg)
 
@@ -117,23 +114,6 @@ for Tossers](http://www.trashisfortossers.com/)/[Alchemy
 ## Foraging
 * Interest in mushrooms (not confident enough to eat them yet)
 * Gathering easy plants (herbs, wild garlic)
-
-# Cleaning
-
-## Cleaning products
-
-Lots of options for buying soap without packaging but this is by Faith In
-Nature and smells of rosemary. Bought from hisBe.
-
-![](images/soap_faith.jpg)
-
-And a Vatika bar from Taj wrapped only in cardboard.
-
-![](images/soap_vatika.jpg)
-
-Loose fabric conditioner from hisBe:
-
-![](images/fabric_conditioner.jpg)
 
 # Every day
 
