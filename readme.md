@@ -303,26 +303,6 @@ Loose apricots from Taj.
 Taj hack: they don't offer paper bags apart from for the takeaway curries and
 the baguettes. So go and use them!
 
-# Marinade
-* Ginger
-* Garlic
-* Rice wine vinegar
-* Sésame oil
-
-* Lemon
-* Garlic
-* Chilli
-* Parsley
-* Oregano
-* Cayenne pepper
-* Sherry vinegar
-* Truffle oil
-
-* Bay
-* Salt
-* Olive oil
-* Roasted paprika
-
 # Ready meals
 The veggie ready meal section in Waitrose. Without exception each has a plastic tray or panel.
 
