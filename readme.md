@@ -3,6 +3,8 @@ producer. The producer enjoys longer shelf-life and protection during shipping
 but the responsibility of disposing of the packaging is passed on to the
 consumer.
 
+# The future of supermarkets (and ironically the past)
+
 ## Infinity Foods
 Firmly established vegetarian shop and organic advocate. Almost all of their veg
 is loose and they have an excellent in-house bakery. They also sell
@@ -19,22 +21,13 @@ See also [The Food Shed](http://www.foodshedbrighton.com/dry-food.html).
 
 ## Taj
 All major supermarkets pack their greens in plastic but Taj offer bundles of
-spinach with no packaging. They also sell lots of herbs and spices that you
-often don't see loose.
-
-![](images/spinach_taj.jpg)
-![](images/spring_onions.jpg)
-![](images/lemongrass_taj.jpg)
-
-You can repurpose the rubber bands from the spinach or make an awesome rubber
-band ball.
-
-![](images/rubberband_ball.jpg)
-
-They sell an interesting cheese alternative in a reusable jar: labneh. It's a
-beautifully sour strained yoghurt that you can spread on your toast.
-
-They also Vatika soap bars which come in a card box (no inner plastic bag).
+[spinach](images/spinach_taj.jpg) with no packaging bar a rubber band (which you
+can repurpose the rubber bands from the spinach or make an awesome [rubber band
+ball](images/rubberband_ball.jpg).) In fact they sell lots of herbs and
+[spices](images/lemongrass_taj.jpg) that you often don't see loose. They also
+offer an interesting cheese alternative in a reusable jar: labneh. It's a
+beautifully sour strained yoghurt that you can spread on your toast. And their
+Vatika soap bars come in a card box (no inner plastic bag).
 
 ## Bluebird Tea Company
 A fantastic selection of loose tea and tea-supping accoutrements. 10% discount
@@ -46,28 +39,26 @@ Specialist cheese shop and very supportive of the cause.
 # Mainstream supermarkets
 
 ## Waitrose (Western Road)
-First things first: remember to take your [flask](images/waitrose_free_coffee)
+First things first: make sure to take a [flask](images/waitrose_free_coffee)
 for the free coffee.
 
-Quite a nice illustration of the craziness of packaging! The same mushrooms
-appear to be cheaper if you put them in a paper bag yourself. The paper bags can
-of course also be used instead of the plastic and gel panel bags found through
-the store.
+Quite a nice illustration of the craziness of packaging: you can buy essential
+white mushrooms prepackaged or loose. But the loose ones [work out
+cheaper](images/waitrose_mushrooms.jpg)! So we're paying for the convenience of
+not having to touch individual mushrooms. Similarly loose and plastic-wrapped
+peppers are offered [side-by-side](images/peppers_waitrose.jpg).
 
-![](images/waitrose_mushrooms.jpg)
+The paper bags can of course also be used instead of the plastic and gel panel
+bags found throughout the store (notably the bread section).
 
-You can buy two loose peppers. Or two peppers in a plastic bag.
-
-![](images/peppers_waitrose.jpg)
-
-Paper from FSC approved sources, the wrapper can go in the in-store bag
-recycling.
-![](images/toiletroll_waitrose1.jpg)
+The own-brand bulk-by [toilet paper](images/toiletroll_waitrose1.jpg) is
+apparently from "FSC approved sources" and the wrapper can be returned to the
+in-store bag recycling box.
 
 ## TK Maxx
-Bamboo socks in card packaging.
-
-![](images/socks.jpg)
+TK is quite a good place to pick up [items](images/socks.jpg) with minimal
+packaging. Although you do feel a bit shop lifty walking out with an unbagged
+jacket. I guess it just takes time.
 # Bread
 
 Shop bought bread can really only come from a proper baker. In this case it's
