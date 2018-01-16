@@ -6,7 +6,9 @@ shipping and disposing of the packaging is passed on to the consumer.
 
 ## Infinity Foods
 Firmly established vegetarian shop and organic advocate. Almost all of their veg
-is loose and they also have an excellent in-house bakery.
+is loose and they also have an excellent in-house bakery. They also sell
+[biodegradable toothbrushes](https://www.brushwithbamboo.com/) and
+[d2w](http://d2w.net) bin bags.
 
 ## hiSbe Food CIC (how it Should be)
 The go-to place for package free shopping. A large choice of produce in hoppers,

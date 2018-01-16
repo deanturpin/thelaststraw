@@ -1,11 +1,5 @@
 # Cleaning
 
-## Toothbrushes
-
-There are a few biodegradable options for toothbrushes.
-
-https://www.brushwithbamboo.com/
-
 ## Cleaning products
 
 Lots of options for buying soap without packaging but this is by Faith In
