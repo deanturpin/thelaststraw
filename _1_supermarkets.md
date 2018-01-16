@@ -1,6 +1,7 @@
 What appears to be convenience for the shopper is really slight of hand by the
-mass producer. The producer enjoys longer shelf-life and protection during
-shipping and disposing of the packaging is passed on to the consumer.
+producer. The producer enjoys longer shelf-life and protection during shipping
+but the responsibility of disposing of the packaging is passed on to the
+consumer.
 
 ## Infinity Foods
 Firmly established vegetarian shop and organic advocate. Almost all of their veg
@@ -45,9 +46,8 @@ Specialist cheese shop and very supportive of the cause.
 # Mainstream supermarkets
 
 ## Waitrose (Western Road)
-Remember to take your flask for the free coffee.
-
-![](images/waitrose_free_coffee.jpg)
+First things first: remember to take your [flask](images/waitrose_free_coffee)
+for the free coffee.
 
 Quite a nice illustration of the craziness of packaging! The same mushrooms
 appear to be cheaper if you put them in a paper bag yourself. The paper bags can
