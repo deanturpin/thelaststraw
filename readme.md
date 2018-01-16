@@ -438,50 +438,11 @@ comes in plastic so it makes it quite easy to avoid.
 ## 2016 - 1
 ![](images/zero-waste-review-2016-1.jpg)
 
-# Natto
-Biggest tip is to make sure the soybeans are very well cooked. Almost over
-cooked. Once the soybeans are easily squished between your fingers and the color
-turns from yellow to brown you are good! I use a sous vide bath to incubate. 44C
-so the soybeans are right at 38C. Use about 5-10% store bought natto to freshly
-cooked natto. Keep the beans at about an inch or so when incubating. I use a
-high tech methods to keep things as consistent as possible as some people buy
-from me. I prefer to pressure steam my beans. I also add 1tbsp baking soda to 2L
-of filtered water. This reduces cooking time quite a bit. I use the double film
-method with holes in the film. Good luck!
+# Plastic Soup Foundation
 
-Lance HancherowGroup moderator Same as Phil Kuehnl does them.... I pressure
-steam them... otherwise it is way too frustrating, and I would have quit making
-it years ago doing it the old traditional way to cook the beans! lol ;) p.s. I
-use zip lock baggies with pinholes in them to pack them in for incubation in
-around a 1/2 to 1 inch layer.
-
-Phil Kuehnl Incubating is a matter of preference. Lance uses high tech bags and
-I use plastic containers. My set up is similar to how you buy the natto at the
-store. I put holy film on top of the natto (barely touching it.) creating a very
-humid environment. Then another layer of holy film on top of the container.
-# Readme
 ![](images/plastic_soup_foundation.jpg)
 
 Image by [Plastic Soup Foundation](https://www.facebook.com/PlasticSoupFoundation/).
-
-- [Mid-year review](myr.md)
-- [Sport](sport.md)
-- [Recycling](recycling.md)
-- [Recipes](recipes.md)
-- [Baking](baking.md)
-- [Fruit](fruit.md)
-- [Cleaning](cleaning.md)
-- [Shops](shops.md)
-- [Dairy](dairy.md)
-- [Veg](veg.md)
-- [Tea](tea.md)
-- [Condiments](condiments.md)
-- [Fermentation](fermentation.md)
-- [Changes](changes.md)
-- [Bottle cutting](bottle-cutting.md)
-- [Animal welfare and passive aggression](welfare.md)
-- [Zero waste shopping](zero-waste-shops.md)
-- [Misc](misc.md)
 
 # Granola
 I've been thinking about this granola for a while and finally found some dried
