@@ -381,12 +381,12 @@ greaseproof on as many trays as you can get in the oven and bake for roughly
 three hours at 110C. Check every hour.
 # Fermentation
 
-Fermentation is not readily practiced by much of society but a great skill and
-will get you on the road to preserving things when there’s an abundance.
+Fermentation is not readily practiced by much of society but it's a great skill
+and it will start you on the road to preserving things when there's an
+abundance.
 
-All these recipes use a percentage of salt. If 1.6% salt is required, 1000g of
-veg would need 16g of salt. But you should always taste the raw mix before
-bottling.
+All these recipes use a percentage of salt. If 1.6% salt is stated, 1000g of veg
+would need 16g of salt. But you should always taste the raw mix before bottling.
 
 ## Basic principles of fermented cabbage
 Shop bought fermented goods are pretty pricey considering it's mostly cabbage.
