@@ -3,8 +3,9 @@ producer. The producer enjoys longer shelf-life and protection during shipping
 but the responsibility of disposing of the packaging is passed on to the
 consumer.
 
-Ask yourself: is this purchase important enough to justify packaging that could
-potentially be around for longer than I will?
+In the short term it's simply a matter of limiting ourselves to products that
+are responsibly packaged. But if we don't start refusing plastic the
+supermarkets have very little incentive change.
 
 # The future of supermarkets
 
