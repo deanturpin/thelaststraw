@@ -58,7 +58,7 @@ available and a 10% discount for using your own containers.
 # Mainstream supermarkets
 
 ## Waitrose (Western Road)
-First things first: make sure to take a [flask](images/waitrose_free_coffee)
+First things first: make sure to take a [flask](images/waitrose_free_coffee.jpg)
 for the free coffee.
 
 Quite a nice illustration of the craziness of packaging: you can buy essential
