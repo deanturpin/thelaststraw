@@ -370,9 +370,9 @@ transfer to an airtight container. This does keep it nice and crisp but we're
 all busy people and it will keep quite happily for a week covered with another
 baking tray.
 
-Starting with 300g of oats makes one baking tray's worth. I tend to do two at
-once, the lower one stays in for the first eight minutes, stir and then I bring
-it to the top for a further four minutes.
+300g of oats makes one baking tray's worth. I tend to do two at once, the lower
+one stays in for the first eight minutes, stir and then I bring it to the top
+for a further four minutes.
 
 ## Drying fruit
 Drying is really good way to extend the life of fruit. Apples work particularly
