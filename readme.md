@@ -4,12 +4,12 @@ but the responsibility of disposing of the packaging is passed on to the
 consumer.
 
 In the short term it's simply a matter of limiting ourselves to products that
-are responsibly packaged. But if we don't start refusing plastic the
+are responsibly packaged. But if we don't start refusing plastic, the
 supermarkets have very little incentive change.
 
 # The future of supermarkets
 
-And, ironically, how it use to be.
+And, ironically, how it used to be.
 
 ## Infinity Foods
 Firmly established vegetarian shop and organic advocate. Almost all of their veg
@@ -26,7 +26,7 @@ conditioner etc., and unpackaged soap bars.
 Of particular note are ingredients such as [dry
 coconut](images/coconut_hisbe.jpg), [cacao nibs](images/nibs_hisbe.jpg), olive
 oil, [goji berries](images/goji_hisbe.jpg) and plain/milk/white [chocolate
-buttons](images/chocolate_hisbe.jpg). They're only £10/Kg too, whereas Waitrose
+buttons](images/chocolate_hisbe.jpg). Chocolate is only £10/Kg too, whereas Waitrose
 charges up to 20/Kg for a 100g bar of Green and Blacks and you have to do
 something with the packaging.
 
@@ -38,7 +38,7 @@ In fact they sell lots of herbs and [spices](images/lemongrass_taj.jpg) that you
 often don't see loose. They also offer an interesting cheese alternative in a
 reusable jar: labneh. It's a beautifully sour strained yoghurt that you can
 spread on your toast. Taj has [loose apricots](images/apricots_taj.jpg) - a rare
-source of loose dry fruit - and their Vatika soap bars come in a card box (no
+source of loose dried fruit - and their Vatika soap bars come in a card box (no
 inner plastic bag).
 
 Taj hack: they don't offer paper bags unless you're buying a takeaway curry. But
